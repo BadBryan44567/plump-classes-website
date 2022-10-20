@@ -1,0 +1,34 @@
+[[main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  identifier = "sections"
+  name = "Sections"
+  url = "sections"
+  weight = 2
+
+[[main]]
+  parent = "sections"
+  name = "Physics"
+  url = "/categories/Physics"
+
+[[main]]
+  parent = "sections"
+  name = "Math"
+  url = "/categories/Math"
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 4
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 5
+

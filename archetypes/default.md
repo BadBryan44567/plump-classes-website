@@ -1,6 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description:
 date: {{ .Date }}
-draft: true
+url: /posts/{{.Name}}/
+image: images/{{ .Name }}.jpg
+categories:
+    - Physics
+    - Math
+draft: false
 ---
 
