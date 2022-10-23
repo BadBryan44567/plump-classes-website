@@ -7,14 +7,14 @@ header:
     paddingY: 0
     align: center
     title:
-      - PLUMP CLASSES
+      - MA - PHYSICS
     subtitle:
-      - Articles for Physics Students.
+      - Study Material, Solutions, Guides and Articles for Maths and Physics Students.
     titleColor: # #123456, red
     titleShadow: false
     titleFontSize: 50
     subtitleColor: # #123456, red
     subtitleCursive: false
-    subtitleFontSize: 16
-    spaceBetweenTitleSubtitle: 20
+    subtitleFontSize: 18
+    spaceBetweenTitleSubtitle: 15
 ---

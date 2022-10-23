@@ -5,26 +5,62 @@
   weight = 1
 
 [[main]]
-  identifier = "sections"
-  name = "Sections"
-  url = "sections"
+  identifier = "articles"
+  name = "Articles"
+  url = "Articles"
   weight = 2
 
 [[main]]
-  parent = "sections"
+  parent = "articles"
   name = "Physics"
   url = "/categories/Physics"
 
 [[main]]
-  parent = "sections"
+  parent = "articles"
   name = "Math"
   url = "/categories/Math"
 
 [[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
+  identifier = "solutions"
+  name = "Solutions"
+  url = "solutions"
+  weight = 3
+
+[[main]]
+  parent = "solutions"
+  name = "AP Physics"
+  url = "solutions/AP-Physics"
+
+[[main]]
+  parent = "solutions"
+  name = "AP Math"
+  url = "solutions/AP-Math"
+
+[[main]]
+  parent = "solutions"
+  name = "BC Physics"
+  url = "solutions/BC-Physics"
+
+[[main]]
+  identifier = "sample-papers"
+  name = "Sample Papers"
+  url = "sample-papers"
   weight = 4
+
+[[main]]
+  parent = "sample-papers"
+  name = "AP Physics"
+  url = "sample-papers/AP-Physics"
+
+[[main]]
+  parent = "sample-papers"
+  name = "AP Math"
+  url = "sample-papers/AP-Math"
+
+[[main]]
+  parent = "sample-papers"
+  name = "BC Physics"
+  url = "sample-papers/BC-Physics"
 
 [[main]]
   identifier = "about"
