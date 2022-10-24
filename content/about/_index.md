@@ -2,7 +2,6 @@
 title: "About Me"
 date: "2022-10-18"
 ---
-
 ### Hi, I'm Lalitha Prasuna
 
 <p> 
@@ -12,5 +11,3 @@ I have Been in the field of education since 1990 teaching physics to the student
 <p>
 I have started this blog to help students understand basic concepts in the field of Physics on their own, in an easy and meaningful way.
 </p>
-
-

@@ -102,7 +102,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "BadBryan44567"              # Your GitHub ID
-  repo = "vschool-website-comments"               # The repo to store comments
+  repo = "plump-classes-website"               # The repo to store comments
   message = ""      # Optional
   link = ""         # Optional
 
@@ -196,5 +196,5 @@ commento = false
   name = "Privacy"
   link = "/privacy"
 [[footerLinks]]
-  name = ""
-  link = ""
+  name = "Terms and Conditions"
+  link = "/terms-conditions"

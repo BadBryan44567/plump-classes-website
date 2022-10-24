@@ -63,6 +63,11 @@
   url = "sample-papers/BC-Physics"
 
 [[main]]
+  parent = "sample-papers"
+  name = "BC Math"
+  url = "sample-papers/BC-Math"
+
+[[main]]
   identifier = "about"
   name = "About"
   url = "about"
