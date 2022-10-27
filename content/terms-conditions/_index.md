@@ -31,6 +31,8 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 
 <p>
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+
+This Terms of Service agreement for MA - Physics is managed by TermsFeed Terms and Conditions Generator.
 </p>
 
 <p>
