@@ -1,5 +1,4 @@
 ---
-homeHeaderType: text
 header:
   - type: text
     height: 200
@@ -7,14 +6,14 @@ header:
     paddingY: 0
     align: center
     title:
-      - MA - PHYSICS
+      - MA Physics
     subtitle:
-      - Study Material, Solutions, Guides and Articles for Maths and Physics Students.
-    titleColor: # #123456, red
+      -  Study Material, Solutions, Guides and Articles for Maths and Physics Students. 
+    titleColor: "#000000"
     titleShadow: false
     titleFontSize: 50
     subtitleColor: # #123456, red
     subtitleCursive: false
-    subtitleFontSize: 18
+    subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 15
 ---
