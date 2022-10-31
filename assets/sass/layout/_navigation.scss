@@ -330,6 +330,7 @@
   
   .navbar__dropdown:hover .navbar__dropdown--content {
 	display: block;
+	@include justify-content(flex-start)
   }
   
   .theme {
