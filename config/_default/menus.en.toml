@@ -11,61 +11,16 @@
   weight = 2
 
 [[main]]
-  parent = "articles"
-  name = "Physics"
-  url = "/categories/Physics"
-
-[[main]]
-  parent = "articles"
-  name = "Math"
-  url = "/categories/Math"
-
-[[main]]
-  identifier = "solutions"
-  name = "Solutions"
-  url = "solutions"
+  identifier = "examples"
+  name = "Examples"
+  url = "examples"
   weight = 3
 
 [[main]]
-  parent = "solutions"
-  name = "AP Physics"
-  url = "solutions/AP-Physics"
-
-[[main]]
-  parent = "solutions"
-  name = "AP Math"
-  url = "solutions/AP-Math"
-
-[[main]]
-  parent = "solutions"
-  name = "BC Physics"
-  url = "solutions/BC-Physics"
-
-[[main]]
-  identifier = "sample-papers"
-  name = "Sample Papers"
-  url = "sample-papers"
+  identifier = "worksheets"
+  name = "Worksheets"
+  url = "worksheets"
   weight = 4
-
-[[main]]
-  parent = "sample-papers"
-  name = "AP Physics"
-  url = "sample-papers/AP-Physics"
-
-[[main]]
-  parent = "sample-papers"
-  name = "AP Math"
-  url = "sample-papers/AP-Math"
-
-[[main]]
-  parent = "sample-papers"
-  name = "BC Physics"
-  url = "sample-papers/BC-Physics"
-
-[[main]]
-  parent = "sample-papers"
-  name = "BC Math"
-  url = "sample-papers/BC-Math"
 
 [[main]]
   identifier = "about"
