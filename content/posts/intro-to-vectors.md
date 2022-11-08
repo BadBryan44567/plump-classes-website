@@ -3,7 +3,7 @@ title: "Vectors in Physics"
 description: A brief introduction to vector quantities and operations that can be peroformed on them.
 date: 2022-11-08T11:15:54+05:30
 url: /posts/intro-to-vectors/
-image: images/intro-to-vectors.jpg
+image: images/intro-to-vectors.png
 categories:
     - Physics
     - Math
