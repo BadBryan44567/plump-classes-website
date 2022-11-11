@@ -4,9 +4,6 @@ description: A brief introduction to vector quantities and operations that can b
 date: 2022-11-08T11:15:54+05:30
 url: /posts/intro-to-vectors/
 image: images/intro-to-vectors.png
-categories:
-    - Physics
-    - Math
 libraries:
     - mathjax
 draft: false
@@ -15,14 +12,14 @@ draft: false
 
 Vector in Physics is a quantity that has both magnitude and direction.
 
-For example, when you walk to a mall, a ile east of your residence and come back, your displacement is zero and the distance travelled is 2 miles.
+For example, when you walk to a mall, a ile east of your residence and come back, your displacement is zero and the distance travelled is 2 km.
 
 ![mall](https://lh5.googleusercontent.com/B9xNUO211KDn9j-_rNU3p3jhedSSdk_a8XUKw-Gp9YitxY2FAVHJoCBrr0lW4jwbdl5ryZhG2f1gYVsEeck_1XRNKDuNuqDd3FR4xEGuqEnb1BdiJAoLwKksd88O56hZwoIWR94CJvI4Ndv7yfVXzqmptP0Ne574eFvvuECSikLYwbboz1_MNl6qDzZQZ2YWA8CeMYbwHg)
 
-Here Displacement is a vector quantity where East is taken as positive, so when you reach the mall, your distance is +1 mile.
+Here Displacement is a vector quantity where East is taken as positive, so when you reach the mall, your distance is +2 km.
 
-When you come back home, the total displacemnt = + 1 mile - 1mile = 0.
-Whereas distance travelled = 1 mile + 1mile = 2 miles.
+When you come back home, the total displacemnt = + 2 km - 2 km = 0.
+Whereas distance travelled = 2 km + 1mile = 2 km.
 
 In the sign convention followed here north and east are taken as positive and West and south are taken as negative.
 
@@ -32,18 +29,18 @@ Similarly, going along the positive X-axis is positive and going along the posit
 
 A vector is typically represented by an arrow whose direction is the same as that of the quantity and whose length is proportional to the quantity’s magnitude. 
 
-In the above example, 1 mile is represented by an arrow of 1 cm taking the scale 1 mile = 1 cm.
+In the above example, 2 km is represented by an arrow of 1 cm taking the scale 1 km = 1 cm.
 
-Initially, you are going towards East hence your displacement is represented as $ \vec{d} $ = 1 mile
+Initially, you are going towards East hence your displacement is represented as $ \vec{d} $ = 2 km
 by an arrow like above. Directions are marked at the top of the page.
 
 &rarr;
 
-Here, the length of the arrow is 1 cm and the arrow head is pointing towards East represents the actual length 1 mile.
+Here, the length of the arrow is 1 cm and the arrow head is pointing towards East represents the actual length 2 km.
 
 &larr;
 
-In the return journey you are travelling 1 mile towards West from the shopping mall. Therefore, the arrow should point the South and the length is 1 cm as per the scale.
+In the return journey you are travelling 2 km towards West from the shopping mall. Therefore, the arrow should point the West and the length is 1 cm as per the scale.
 
 Here displacement is a vector and distance is a scalar.
 
