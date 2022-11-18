@@ -1,6 +1,6 @@
 ---
 title: "Operations on Vectors"
-description:
+description: A Continuation to the Previous Post on Vectors. A dive into the operations which can be performed on Vectors.  
 date: 2022-11-18T19:00:24+05:30
 url: /posts/operations-on-vectors/
 image: images/operations-on-vectors.jpg
