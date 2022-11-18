@@ -40,4 +40,6 @@ Again this is consitent with Eqs (1.5); now $\theta$ is in the seconf quadrant, 
 
 **CAUTION: Relating a vector's magnitude and direction to its components:** equations (1.5) are correct  _only_ when the angle $\theta$ is measured from the positive x-axis. If the angle of the vector is given from a diffrent reference direction or you use a different refrence direction , the relationships are diffrent! Example 1.6 illustrates this point.
 
-<!-- fig -->
+![](https://lh6.googleusercontent.com/Dqzvxb8YP13gr_gp0-gZ0wHctTWPKUzBwkJq4oUACehaAT36ptZFTwzdtQwsDhEDOV0Qo3CaMc4yCx4DGguEMzMEJyyvo9gkOXD87FZzxrPaqFguXIC5Pw7yoZ61Sfzk4Erb1NLEmbI-SOjijXbp_yEuDSLhI00YDhXksC90NjLg8rSYHP0q1uwF6sYTy3mZQ3bw8gQVeg)
+
+![](https://lh3.googleusercontent.com/UjUmkNLR1lBplqGTwP9z-WCqvuMw4zjnB0iEroRqClkuiiF_bpqWygirU4a8YAjowNgMCl8cv8NWp3l3WfdtedQlUkr71ZqKFFVpBRMtPmdxVWXdnrUA8oRFhBWhHsxeNbnXO8Jm06UBNb4X6y5jYLhSNnVSGKiL5nTUJXCZXVnMu5rWyvNKa8Rx0jj873bzm-RTIPx7Jw)
