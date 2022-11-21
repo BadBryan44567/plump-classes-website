@@ -1,8 +1,8 @@
 .navbar {
 	margin: auto;
-	width: auto;
-	max-width: auto;
-	height: 81.5px;
+	width: inherit;
+	max-width: inherit;
+	height: 100px;
 	z-index: z('navbar');
 	position: fixed;
 	left: 0;
@@ -32,7 +32,7 @@
 	}
   
 	&--hide {
-	  top: -81.5px;
+	  top: -100px;
 	}
   
 	&--show {
@@ -65,7 +65,7 @@
 	}
 	
 	&__brand {
-	  height: 81.5px;
+	  height: 100px;
   
 	  @include flexbox();
 	  @include align-items(center);
@@ -82,7 +82,7 @@
 	  @media only screen and (max-width: 769px) {
 		cursor: pointer;
 		margin-left: auto;
-		height: 81.5px;    
+		height: 100px;    
 		width: 35px;
 		position: absolute;
 		right: 0;
@@ -148,8 +148,8 @@
 	}
   
 	&__logo {
-	  width: 197px;
-	  height: 81.5px;
+	  width: 242px;
+	  height: 100px;
   
 	  &-link {
 		width: 40px;
@@ -173,7 +173,7 @@
 	}
   
 	&__title {
-	  height: 81.5px;
+	  height: 100px;
 	  font-size: 1.5rem;
 	  font-family: $title-font;
   
@@ -197,14 +197,14 @@
 	  @include align-items(center);
 	  @include justify-content(flex-end);
   
-	  height: 81.5px;
+	  height: 100px;
   
 	  @media only screen and (max-width: 769px) {
 		display: none;
 	  }    
   
 	  &-item {
-		height: 81.5px;
+		height: 100px;
 		padding: 1rem;
 		font-size: 1.05rem;
 		font-family: $title-font;
@@ -242,7 +242,7 @@
   
 	  // &.is-active {
 	  //   position: absolute;
-	  //   top: 81.5px;
+	  //   top: 100px;
 	  //   left: 0;
 	  //   width: 100%;
 	  //   height: auto;
@@ -261,7 +261,7 @@
   
 	&__dropdown {
 	  display: inline-block;
-	  height: 81.5px;
+	  height: 100px;
 	  @media only screen and (max-width: 769px) {
 		width: 100%;
 		height: auto;
@@ -297,13 +297,13 @@
 		height: auto;
 		margin: auto;
 		min-width: 40px;
-		max-width: 181.5px;
+		max-width: 150px;
 		text-decoration: none;
 		display: block;
 		font-size: 1.05rem;
 		font-weight: 400;
   
-		@include truncate(181.5px);
+		@include truncate(150px);
 		@include themify($themes) {
 		  color: themed("dropdown-item-color");
 		  background-color: themed("navbar-background-color");
@@ -347,7 +347,7 @@
 	}
   
 	.dropdown {
-	  height: 81.5px !important;
+	  height: 100px !important;
 	  position: relative;
   
 	  @include flexbox();
@@ -365,8 +365,8 @@
 		cursor: pointer;
 		border: none;
 		outline: none;
-		width: 81.5px;
-		height: 81.5px - 2px;
+		width: 100px;
+		height: 100px - 2px;
   
 		@include themify($themes) {
 		  color: themed('burger-menu-color');
@@ -446,7 +446,7 @@
 	top: 0;
 	right: 35px * 2;
 	width: 35px;
-	height: 81.5px;
+	height: 100px;
 	cursor: pointer;
 	z-index: z('modal');
   
