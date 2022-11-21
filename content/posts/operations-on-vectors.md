@@ -81,6 +81,6 @@ We can use the same procedure to find the sum of any number of vectors. if $\vec
 $R_x$ = $ A_x + B_x + C_x + D_x + E_x + ... $
 $R_y$ = $ A_y + B_y + C_y + D_y + E_y + ... $
 
-![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg)
+![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg) 
+![](https://lh3.googleusercontent.com/-IkPTjgcYc59EQ49JVimRZqUQQeVxiyBXGBDIP-XnV02_jY3gVKKvaYD79ws_mKODieINt2MBBZDtdlOpwLJQYCyfxRKn2vws6bh8VtqQWp9j7vhqTDUtvPvmUEqU4AX1nLZbWgxRzCoFhKycKRS4QP2i-jktC4jKmGQR-YH2BddM0jd47SFEXjW_7wDMtdoYJYz-wzn8w)
 
-![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg)
