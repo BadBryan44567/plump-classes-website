@@ -26,7 +26,9 @@ To define what we mean by the componenets of a vector A, we begin with a rectang
 
 For example, if the +x-axis points east and the +y-axis points north.  $\vec{A}$ in Fig 1.17 could be the sum of a 2.00 m displacemtn to the east and a 1.00 m displacemtn to the north. the Ax = +2.00m and Ay +1.00m. We can use the same idea for any vectors, not just displacement vectors. The two numbers Ax and Ay are called the **components** of  $\vec{A}$.
 
-**CAUTION: Components are not vectors:** The components Ax abd Ay of a vectro  $\vec{A}$ are numbers: they are _not_ vectoes themselves.
+{{<boxmd>}}
+**CAUTION: Components are not vectors:** **The components Ax abd Ay of a vector  $\vec{A}$ are numbers: they are _not_ vectors themselves.**
+{{</boxmd>}}
 
 ![](https://lh5.googleusercontent.com/uwwt0dmvcOC568aSB1DbmSFEo1R91aEWaBYHBlhoPWW3Bvl_9l8dGL2wx6LU9vWwfSRrL3TUERAlhr9dsaW_Val5jSOrXOmfQwFwGJFRJUhbAZLihld74x7zG3Z87HTEGjt71m7Z7s06hRQPWHEwLpglicIWfVtGWzyTUtnnx20S3lxqybPxTuhTI1sQIe9NEbTHXsVkFw)
 ![](https://lh4.googleusercontent.com/DvVFtX2A9F_7WLuZl9erTF5dE5dcof9tSJiY9MZyaHGAoBjBZ85gcfK6T1-nmxCPvQUq7FaY4y8q4ADNy4uWdqyODEidVxbs0V1hR4nqYy6TMy5pfqB2BpMz8dYwBGiUhreQMWx5w9-89oBOIMvD02WuM2D5B8zpvURjTCybaXKgVEYZMYfiEbiT265MO4lEQn0ewPgnag)
