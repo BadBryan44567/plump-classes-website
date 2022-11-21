@@ -55,7 +55,9 @@ Again this is consitent with Eqs (1.5); now $\theta$ is in the seconf quadrant, 
 
 Using components makes it relatively easy to do various calculations involving vectors. Let's look at three important examples: finding a vector's magnitude and direction, multiplying a vector by a scalar, and calculating the vector sum of two or more vectors.
 
-1. Finding a vector's magnitude and direction from its components. We can describe a vector completely by giving either its magnitude and direction or its x- and y-components.Equations (1.5) show how to find the components if we know the magnitude and direction. We can also reverse the process: We can find the magnitude and direction if we know the components. By applying the Pythagorean theorem to Fig. 1.17, we find that the magnitude of vector $\vec{A}$ is
+### Finding A Vector's Magintude and Direction From Its Components
+
+We can describe a vector completely by giving either its magnitude and direction or its x- and y-components.Equations (1.5) show how to find the components if we know the magnitude and direction. We can also reverse the process: We can find the magnitude and direction if we know the components. By applying the Pythagorean theorem to Fig. 1.17, we find that the magnitude of vector $\vec{A}$ is
 
 $$ A  = \sqrt{A_x^2 + A_y^2} $$
 
@@ -64,3 +66,21 @@ $$ A  = \sqrt{A_x^2 + A_y^2} $$
 $$ \tan \theta = \frac{A_y}{A_x} $$ and  $$\theta =  \arctan \frac{A_y}{A_x} $$
 
 ![](https://lh5.googleusercontent.com/3Cen05mBKGrxtk5vkdO2HSThr9Ua2zjqhe7Wk1_t3H5EzjfcDpikjdTCltfmD1tfZKGU3NGoggRfmSpUKT4je-ysNh4AuL0m8cLnXJgwwmZpNcclaN436ua3-1zTyKSvI5oLI9-uua0rlsKv6UvHjr7FFYTFv-uPXImXzIuLIP0QQkPoLgDE_vyDsJI3Q04Rzyq3lxAOvA)
+
+### Using Components To Calculate The Vector Sum
+Fig 1.21 shows two vectors $\vec{A}$ and $\vec{B}$ and their vector sum $\vec{R}$, along with the x and y components of all three vectors. The x-component $R_x$ of the vector sum is simply the sum $ (A_x + B_x) $ of the x-components of the vectors being added. The same is true for the y-components.
+
+$R_x$ = $ (A_x + B_x) $, $R_y$ = $ (A_y + B_y) $    (1.9)
+
+Figure 1.21 shows the result of the case in which the components $A_x$, $A_y$, $B_x$, $B_y$ are all positive. Draw additional diagrams to verify for yourself that Eqs (1.9) are valid for _any_ signs of the components for $\vec{A}$ and $\vec{B}$.
+
+If we know the components of any two vectors $\vec{B}$ and $\vec{A}$, perhaps by using Eqs(1.5), we can compute the components of the vector $\vec{R}$. Then if we need the magnitude and direction of $\vec{R}$, we can obtain them from Eqs (1.6) and (1.7) with the A's replaced by R's. 
+
+We can use the same procedure to find the sum of any number of vectors. if $\vec{R}$ is the sum of $\vec{A}$,$\vec{B}$,$\vec{C}$,$\vec{D}$,$\vec{E}$,...., the components of $\vec{R}$ are 
+
+$R_x$ = $ A_x + B_x + C_x + D_x + E_x + ... $
+$R_y$ = $ A_y + B_y + C_y + D_y + E_y + ... $
+
+![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg)
+
+![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg)
