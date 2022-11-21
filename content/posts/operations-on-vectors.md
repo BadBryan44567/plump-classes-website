@@ -55,7 +55,7 @@ Again this is consitent with Eqs (1.5); now $\theta$ is in the seconf quadrant, 
 
 Using components makes it relatively easy to do various calculations involving vectors. Let's look at three important examples: finding a vector's magnitude and direction, multiplying a vector by a scalar, and calculating the vector sum of two or more vectors.
 
-### Finding A Vector's Magintude and Direction From Its Components
+### Finding A Vector's Magintude and Direction
 
 We can describe a vector completely by giving either its magnitude and direction or its x- and y-components.Equations (1.5) show how to find the components if we know the magnitude and direction. We can also reverse the process: We can find the magnitude and direction if we know the components. By applying the Pythagorean theorem to Fig. 1.17, we find that the magnitude of vector $\vec{A}$ is
 
@@ -67,7 +67,7 @@ $$ \tan \theta = \frac{A_y}{A_x} $$ and  $$\theta =  \arctan \frac{A_y}{A_x} $$
 
 ![](https://lh5.googleusercontent.com/3Cen05mBKGrxtk5vkdO2HSThr9Ua2zjqhe7Wk1_t3H5EzjfcDpikjdTCltfmD1tfZKGU3NGoggRfmSpUKT4je-ysNh4AuL0m8cLnXJgwwmZpNcclaN436ua3-1zTyKSvI5oLI9-uua0rlsKv6UvHjr7FFYTFv-uPXImXzIuLIP0QQkPoLgDE_vyDsJI3Q04Rzyq3lxAOvA)
 
-### Using Components To Calculate The Vector Sum
+### Calculating The Vector Sum
 Fig 1.21 shows two vectors $\vec{A}$ and $\vec{B}$ and their vector sum $\vec{R}$, along with the x and y components of all three vectors. The x-component $R_x$ of the vector sum is simply the sum $ (A_x + B_x) $ of the x-components of the vectors being added. The same is true for the y-components.
 
 $R_x$ = $ (A_x + B_x) $, $R_y$ = $ (A_y + B_y) $    (1.9)
@@ -83,4 +83,25 @@ $R_y$ = $ A_y + B_y + C_y + D_y + E_y + ... $
 
 ![](https://lh6.googleusercontent.com/GfZLPBSuCirt75L7SGauKbP98Bg-WK6qoo4VzBKquAce9KPI2pFJ_1VzKDNmio3BFdm752hxzHQQtvIid1OxPXEHB7piHQPYH0gd3FFQRyWl20jZ14AAnu4kpFRHt3Bad9eCWcCulxUn8DB_2hrBrmCTTwU0P0JM6KxejH-M9kequF9OHlkR0B9J26uTIdPd9bF4qfbrfg) 
 ![](https://lh3.googleusercontent.com/-IkPTjgcYc59EQ49JVimRZqUQQeVxiyBXGBDIP-XnV02_jY3gVKKvaYD79ws_mKODieINt2MBBZDtdlOpwLJQYCyfxRKn2vws6bh8VtqQWp9j7vhqTDUtvPvmUEqU4AX1nLZbWgxRzCoFhKycKRS4QP2i-jktC4jKmGQR-YH2BddM0jd47SFEXjW_7wDMtdoYJYz-wzn8w)
+
+We have talked about Vectors that lie in the xy plane only, but the component method works just as well for vectors having any direction in space. We can introduce the z-axis perpendicular to the xy plane; then in genral a vector $\vec{A}$ has components $ A_x, A_y, A_z $ in the three coordinate directions.
+Its Magnitude A is
+
+$$ A  = \sqrt{A_x^2 + A_y^2 + A_z^2} $$
+
+Again we always take the positive root (Fig 1.22). Also eqs (1.10) for the vector sum $\vec{R}$ have a third component:
+
+$R_z$ = $ A_z + B_z + C_z + D_z + E_z + ... $
+
+#### Adding Vectors
+
+![](https://lh3.googleusercontent.com/fvKJePqPt2q2dkTNTUn9fHABkslZZNsLoFdtfBIS_z7sOH5cgr8LKKE8TDa5TIQ2eKm3lJn-jI4nOIJFu8q9933ykSBcxv9Y0EMydaUXlj6YQ_0POA2V8bCp3XsXR4c5fJ5NAgDyRTKeMEe6bDp62FLzLvAjx5VY7SZJFvjYX1wRvYX8Zy7rnNw0N0jYRUC-KbPHFiVrWg)
+
+![](https://lh6.googleusercontent.com/6W5c4nLSpPjr05FUQ7PskRlym7iYzjFGEf8spXoCZzi5TcsCh44m8AjcRZ0wReB6FaCtNqXLWbzi2sTtnjYMxW6bkMTry5krXDoexlNtBi-pCvq_ZYI3QyAS554UrJrzX1zRRQAstzgSP1mmKnm5Wd1WCvAPIQTxqoPRn96236zbiqAsJsfEKa6Lp-VRIDUHt_MQ0wkBaA)
+
+![](https://lh4.googleusercontent.com/zDaZgZi4NH5IWdlWpj0xFJ6eJ_BqXhRrxS07xRDBVv6o41OPthZu1Ly7NRRw3o8z_QRHdixnCP8Dagi7XVSUxEdGN-so0wjn1zfuh632C_BaWUtiZj-1VAWNkkMZ_jFW1YM6n3cbeOzqQZ_FH24phlh30gzMHagaLpe9zZeYOdqzcnA9wiLDl-KoFJk3DjT_JTzk64qlJA)
+
+![](https://lh4.googleusercontent.com/IBVOPVwerw9Vyn9KUiK2IiOKesZPP3YNaH-OyTRxlYkcBQpGuPq1ATtebrZK1BV77yqOmExOK_cGAcSBxVDZu7QL-t72YJh6-LepeBlW7PXtAdjGmy2eMqjd-lQmAZsdYtK3di8kAXyonhACGEXkr7fSA2c1zQMhK2_Aa4IWTBe0l4j140DI1gvbxS3AiXrB_iilkjUFww)
+
+![](https://lh5.googleusercontent.com/R6T8eHzdkvxBxH4sLyK1hs6QoQUQSKt6QqrRSjfq0ACeTNHYemg5eHiiTYo2cANkt31X7TJSOQW-pRRG4oLzWHXrE9a_GuD_TY05q0yURehRAryA92nW9Y4hutmD_d_f0-a6XnAIrP1o5yGaz8YFjsbWTqm45fAvKyTtmPxia9h0MZbQO95RGO-AA_bd1oZSZ_s3rwDEXg)
 
