@@ -113,13 +113,18 @@ $D_x = cA_x,    D_y = cA_y $    (Components of $\vec{D} = c\vec{A}$)    (1.8)
 For example, Eqs. (1 .8) say that each component of the vector 2A is twice as great as the corresponding component of A, so 2A is in the same direction as A but has twice the magnitude. Each component of the vector —34 is tluee times as great as the corresponding component of A but has the opposite sign, so —34 is in the opposite direction from A and has three times the magnitude. Hence Eqs. (1 .8) are consistent with our discussion in Section 1.7 Of multiplying a vector by a scalar (see Fig. 1. 15).
 
 ## Unit Vectors
+![](https://lh4.googleusercontent.com/6Ql_cLcLD1qAxxMbTuzEFRaGrgBT2brtzKDz3Exm-ryK2yY_FriPKH4bK1uArB1nYvKjpXvPVBWQ9Eul-7l3Yd_f7WV35dgiIVdfdWsPPLuKgcRbPlwkGM6k8pFVC-11yze26rPeJjHTXd7IL2d-7d07Q6pN2m12zaGQOw_zg4dZkLztdsTyVjqMJ6i--E9JybE1k7uIVg)
 
-A **unit vector** is a vector that has a magnitude of 1, with no units. Its only purpose is to _point_ —that is, to decribe a direction in space. Unit vectors provide a convinient notation for many expressions involving components of vectors. We'll always include a caret, or "hat" (^), in symbol for a unit vector to distinguish it from ordinaty vectors whose magnitude may or may not be equal to 1. 
+![](https://lh6.googleusercontent.com/ecfYbTwT4Fj3YtiIg4_OLiq1G9aX9EupVlnyi8CLm9_FIkzvm64gpRlMMxnVnUgGFO8sfKYk73ct82MLDti92vZvlS4ECLLdA2gT8tTfRXAlJzT1BJDu-xiKGB87yj9zkbE-3wmbvGNtvxWlqQTFpvIRbbOHyIV81vPRMa-jz3QKq2FH2VB_VENcpwgrP6kRzIRj6VtUNQ)
 
-In an xy coordinate system, we can define a unit vector $\hat{i}$ that points in the direction of the positive x-axis and a unit vector $\hat{j}$ that points in the direction of the positive y-axis (Fig. 1.24a). The we can write a vector $\vec{A}$ in terms of its components as:
+![](https://lh3.googleusercontent.com/gmu-dJgUPDpe23xo56U3_t_lYqPDCwRk7EcpDDFTJsCcYL1DvvybK9Q1iK-Htb-H2CykP79krSFZhEJ-lTZJw9TXZCrHvSgtqyBDQjGQuiV6RncPB48RfC-flnwHdnwAs0qay4VWP0xjmG8-TN4HVdT0lIOPTLmC2kSC5bPAJZ3YOp8oZ2A56AuqzmHJmFnYFlvffw0Xrg)
 
-$$
+![](https://lh4.googleusercontent.com/t2F47f_sAyWPdmWNvnV25sQgOD6oTcdpwcKrHpmSq9AjzV1ZHxEkkKJ6iP1FoIQaxpz3ZVM4TFeQjX01rNCuZX8Hzu3Gnr5AofrV1lmcDIdJ5WdvdB9jYRptKYn7uTYEct0zzOOUy92WViQS_F_5H0ZHAyN6dSEkxy_zCiKQQDPXyBD9gWLSndJLYgm9GUD6YWG4wgpz_w)
 
+![](https://lh4.googleusercontent.com/FMOY7K92KFJ-JRGr1TbpERkz1OaTv6BpV45-79trjNRp9Due8qoS9b0xO5uJyRT_-HEkiMv7V9LqbGi_DQO-tGqrn_j_2b3RlDnTgjxOlZ-LBdJt59pRRk867V7lIvLORpm_U1c-0_ayI3HeFrg9yJW1Jfh3SVvNbPsU47h03F0u4CxETobreAk_WMUZ3BOc_mnm0YGVng)
 
+![](https://lh4.googleusercontent.com/G1E1LXkEHyLdq6kPeboih6kZQSoF3CoSLucgX8_8qZJTRBmm5gJTeyBxfySOylwl7v3YbC64pxs0FckNbY-FTKimeWUcw_GS7Qyj5YtebUX52r4vy7HpXz4vnA9-hjX9ZaSvlfiMpbX-mG_vrDW9wBf5S1jC2OpPSttn7udNCgco5TavQ6MUuSx8RLtmDrlYlFe9GlhB1g)
 
+![](https://lh3.googleusercontent.com/skqWaLQCx7zsAclsyUepopOfQqPfv9Wzh323UYZo0Z5vD-4WWveg4PfGMUG48lFLp14s7B0OszoM8XEMJLuTqDN4u54za7JjgzJ40RK0WykIEbMOBC9PZtXguJLfVxow2cgd4kGIEbIJtbL_WIhTJbccn2q8GdmXkuwOLg67HGuOFMX8puCa-S3CitbEp_tFi6NwsiX82Q)
 
+![](https://lh3.googleusercontent.com/4YRD-bQbzIo3dUh5krh-O_4SMexp-vPjVDBYMRs45R3MjUP2MBSlNH6_QrPdIYeDo59DTuFEQLoyfVDu3x3xXahhsNp0TklEyUl0xdiKMzO8-ZGgF8fbMLEPbWw9sN-UmJA76o1sEixJLt3tI_wnHEPVTlmoswY3-B4LEbG3UOGavegDHNAC0RdeS3Cwi0s9bOSG3nAYYA)
