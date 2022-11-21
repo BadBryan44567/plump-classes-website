@@ -40,8 +40,27 @@ In Fig 1.17a= Ax and Ay are positive, This is consistent with Eqs.(1.5); $\theta
 
 Again this is consitent with Eqs (1.5); now $\theta$ is in the seconf quadrant, so cos $\theta$ is negative and sin $\theta$ is positibe. In Fig 1.18b both Cx and Cy are negative ( both cos $\theta$ and sin $\theta$ are negative in the third quadrant.)
 
-**CAUTION: Relating a vector's magnitude and direction to its components:** equations (1.5) are correct  _only_ when the angle $\theta$ is measured from the positive x-axis. If the angle of the vector is given from a diffrent reference direction or you use a different refrence direction , the relationships are diffrent! Example 1.6 illustrates this point.
-
+{{<boxmd>}}
+**CAUTION: Relating a vector's magnitude and direction to its components: equations (1.5) are correct  _only_ when the angle $\theta$ is measured from the positive x-axis. If the angle of the vector is given from a diffrent reference direction or you use a different refrence direction , the relationships are diffrent! Example 1.6 illustrates this point.**
+{{</boxmd>}}
 ![](https://lh6.googleusercontent.com/Dqzvxb8YP13gr_gp0-gZ0wHctTWPKUzBwkJq4oUACehaAT36ptZFTwzdtQwsDhEDOV0Qo3CaMc4yCx4DGguEMzMEJyyvo9gkOXD87FZzxrPaqFguXIC5Pw7yoZ61Sfzk4Erb1NLEmbI-SOjijXbp_yEuDSLhI00YDhXksC90NjLg8rSYHP0q1uwF6sYTy3mZQ3bw8gQVeg)
 
 ![](https://lh3.googleusercontent.com/UjUmkNLR1lBplqGTwP9z-WCqvuMw4zjnB0iEroRqClkuiiF_bpqWygirU4a8YAjowNgMCl8cv8NWp3l3WfdtedQlUkr71ZqKFFVpBRMtPmdxVWXdnrUA8oRFhBWhHsxeNbnXO8Jm06UBNb4X6y5jYLhSNnVSGKiL5nTUJXCZXVnMu5rWyvNKa8Rx0jj873bzm-RTIPx7Jw)
+
+![](https://lh6.googleusercontent.com/36LPIUK5Eom7KguIhqMd4gyYfDVOls7ft_zkLKOY5FsCFEgt52B32yW3NIrcNkmXsVjn6VkDswYyAexrjY23aodTXe2SBJ8DlO10Y3orTQQnf2uPpYm3sFLe90-_mROhOOaRMxHhOvl5FJc3FM84xMvVa46fMoziGBgHnQQTn0QHJCq_9G-n_AOd5S-hrKvtBYr72pPAFQ)
+
+![](https://lh6.googleusercontent.com/LVgo9Bret60tf4bWl3k0asTw83lhgjfibhHSy6mUj0nnz_vR9G2XKa1Z2c2-THOy_Pn87-7XrDLrMbgzVMhtj82Pb1PsvbDENJKaen1zyJlKs4ogW2H-hRWM-5jaEHbU1WdRKVGo_UH-Eo4bcUPnjHt_tLQkvC_iWzJg7odBfT7oLtW6kHQpt6bIuIf9dsqxy26In8EDDg)
+
+## Using Components to Do Vector Calculations
+
+Using components makes it relatively easy to do various calculations involving vectors. Let's look at three important examples: finding a vector's magnitude and direction, multiplying a vector by a scalar, and calculating the vector sum of two or more vectors.
+
+1. Finding a vector's magnitude and direction from its components. We can describe a vector completely by giving either its magnitude and direction or its x- and y-components.Equations (1.5) show how to find the components if we know the magnitude and direction. We can also reverse the process: We can find the magnitude and direction if we know the components. By applying the Pythagorean theorem to Fig. 1.17, we find that the magnitude of vector $\vec{A}$ is
+
+$$ A  = \sqrt{A_x^2 + A_y^2} $$
+
+(We always take the positive root.) Equation (1.6) is valid for any choice of x-axis and y-axis, as long as they are mutually perpendicular. The expression for the vector direction comes from the definition of the tangent of an angle. If is measured from the positive x-axis, and a positive angle is measured toward the positive y-axis as in Fig.1.17), then 
+
+$$ \tan \theta = \frac{A_y}{A_x} $$ and  $$\theta =  \arctan \frac{A_y}{A_x} $$
+
+![](https://lh5.googleusercontent.com/3Cen05mBKGrxtk5vkdO2HSThr9Ua2zjqhe7Wk1_t3H5EzjfcDpikjdTCltfmD1tfZKGU3NGoggRfmSpUKT4je-ysNh4AuL0m8cLnXJgwwmZpNcclaN436ua3-1zTyKSvI5oLI9-uua0rlsKv6UvHjr7FFYTFv-uPXImXzIuLIP0QQkPoLgDE_vyDsJI3Q04Rzyq3lxAOvA)
