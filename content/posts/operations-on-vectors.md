@@ -128,3 +128,36 @@ For example, Eqs. (1 .8) say that each component of the vector 2A is twice as gr
 ![](https://lh3.googleusercontent.com/skqWaLQCx7zsAclsyUepopOfQqPfv9Wzh323UYZo0Z5vD-4WWveg4PfGMUG48lFLp14s7B0OszoM8XEMJLuTqDN4u54za7JjgzJ40RK0WykIEbMOBC9PZtXguJLfVxow2cgd4kGIEbIJtbL_WIhTJbccn2q8GdmXkuwOLg67HGuOFMX8puCa-S3CitbEp_tFi6NwsiX82Q)
 
 ![](https://lh3.googleusercontent.com/4YRD-bQbzIo3dUh5krh-O_4SMexp-vPjVDBYMRs45R3MjUP2MBSlNH6_QrPdIYeDo59DTuFEQLoyfVDu3x3xXahhsNp0TklEyUl0xdiKMzO8-ZGgF8fbMLEPbWw9sN-UmJA76o1sEixJLt3tI_wnHEPVTlmoswY3-B4LEbG3UOGavegDHNAC0RdeS3Cwi0s9bOSG3nAYYA)
+
+## Products Of Vectors
+
+Vectors are not ordinary numbers, so we can't directly apply ordinary multiplication to vectors. We'll define two different kinds of products of vectors. The first, called the _scalar product_, yields a result that is a scalar quantity. The second, the _vector product_, yields another vector.
+
+### Scalar Product
+
+We denote the scalar product of two vectors $\vec{A}$ and $\vec{B}$ by $\vec{A}$ . $\vec{B}$. Because of this notation, the scalar product is also called the **dot product**. Although $\vec{B}$ and $\vec{A}$ are vectors, the quantity $\vec{A}$ . $\vec{B}$ is scalar. 
+
+![](https://lh4.googleusercontent.com/MD_xzc7LDmLtB7cXNb4MLZT_lzeD8qLw4uU7HziVoyc-BQ7ysqPH8VHpt4-E0DkDAg_zjoO82X-NZgHvPHJKQHD5csR8FCMw6x6VS0M3d6mfkWxtwEFR6eWTBWqwsey8nLc9dws2G4pI1vWkDmDczbkUa-YPlJG6KlPIEt_yP4PI1w6AqP5kvr--m3Vb1-E-JMgOViKtHw)
+
+![](https://lh4.googleusercontent.com/0mrvui_Yfb-4bRurcBVbDwxRp1jkwj-e8eKttffi6GOS04F8suKC93ZXRXU-1BbKb0VkRmiUg7wyeQo1jFU0B_2jSrfNQeCBD6HRRsJmjlTR7C66bDsTvSdK6eCZ3QWt1A0UKsVoj2FBZd_8bTdVxJUNz25aURboRlUy7doOgOZPzOpokUiLTvdS_lvahG_gK1CzeFBUig)
+
+![](https://lh3.googleusercontent.com/d3PTyvyFl-u7F-ir4gadiy837debABnBauXc5ZKqaZdVmIf_LN3w90ILylMTymkrvaNPWgqpj3hJE0acyTIW-C_xj04VGuwLiZfgJimeas2YRNgW6kXF_M9jqJhnlhdl6wXcRwsKDzMYIHrE4Ak_2PNW255hFrzLxRSc9WPMRDit4Hc-LC5oEAPMfeH7DLR40tjboMM_zg)
+
+![](https://lh3.googleusercontent.com/7DEyFycRJzn9VzlVS9MaXnqpqRHBcLlt2QRU4mOXVytiI-kJcInYz3y8Db7u-GFot_YJWuC7XlL4vK8c5FqymIpvxDaDQgn6BSYvMtuchrZ1aT2ihTv8zLfyROQc79i-QH6aLx5tW4YdeIIvT8N7Wxv7HW4Opf2G_J8sCflSJ-O2YaVIGVEmKIeNaau4-_ZnpjD-5JaFDA)
+
+![](https://lh5.googleusercontent.com/93DCdX2dygikfjd6TiROrgzk48ywD7rkGMVcU5dp0oCSUEWwHAf1JsFXJuWDqg8w1iy0kUSdWKB4R6JAAPns6K4SIaIKWsps2u7kkyEQVVhbQ5MeJdXZkSyUe0ChExMVaiT3UwXUKyAYJYsfVaOVfwqn3HNZfCxoZJDTO4FXKxnlmYq5LZHerK78EnuC-DI4kxotA1ffgA)
+
+![](https://lh3.googleusercontent.com/qdFtxx-27vv4ZtrV1-I3K9T9S_pCRzEMVDLt2M2RLsHb1vfUJL6WjDsbVSiT3W2UxUq0MzzRCSE_jRkMYRYYL1hb_BlvzQboik9q8nL40RhlL3D4xuugw9kFqReUAg-PRwbsOalk-V1wVKPGg_Lz2eCZniSmX1qOCpieVB_RTctydQoYfyZEZ8oUrRIrzsbXT4Pp9pl8wg)
+
+![](https://lh4.googleusercontent.com/NbKqJ1c2D_rIAI-sahy3EMFRn-Za1SQQPMXr5bCfiy5b2VfGrIPO_N1kg0vVwo_FB1bOYDMkY1nz4-5CK2l3AZR6hj7RHLVINsApmatIrjCyG8zes-taaYqFx6S44_W9-nOjswXMBqEBaH8E57rzWiC-vl8Zl_WA9b3EG082E2xpTjmzImygLNjblIcdicwHKEjwYwG88A)
+
+![](https://lh3.googleusercontent.com/KHso8qjMWT1yAiP_7NpLxlArl1KS0f5ML8pvp5U8Vnz5JfxdzOrDi4iw0erAqrWS8HBeHlN_XCS1BPijbKd16zw-92wYxgDTIEZcUfdlNKzK_N-9yU1RWGe0RU3hBiZuciV_mBUeCUORLAeT43cubseCYBkoOoNEYWgb34epH6UItv1VtLPA89hXUZDKj8-oBwHEf0ln8w)
+
+#### Using Components To Calculate the Scalar Product
+
+
+![](https://lh6.googleusercontent.com/cFuZHrXERx5vWWvCe_13JMWM5P-zCcOLZ7jBR6wxZLY2xUyaXmmpORFPgTFX3eerSwAFQjOPN6L8zReUva3vVtsthfc8HvACo_TJvY9VTYoKCREfwBvVL_dkiNDMHKpIoT6TYljfRcmBbzNPGDl_InKthB1ulnMa_j4ic6A0OijTuVDtaJzB7_z8Am1aPqhnQzMQkpxKmQ)
+
+Thus _the scalar product of two vectors is the sum of the products of their respective components_ 
+
+The scalar product gives a straightforward way to find the angle $\phi$) between any two vectors A and B whose components are known. In this case we can use Eq. (1. 19) to find the scalar product of A and B. Example 1.10 shows how to do this.
