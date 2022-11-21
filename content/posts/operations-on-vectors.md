@@ -105,3 +105,21 @@ $R_z$ = $ A_z + B_z + C_z + D_z + E_z + ... $
 
 ![](https://lh5.googleusercontent.com/R6T8eHzdkvxBxH4sLyK1hs6QoQUQSKt6QqrRSjfq0ACeTNHYemg5eHiiTYo2cANkt31X7TJSOQW-pRRG4oLzWHXrE9a_GuD_TY05q0yURehRAryA92nW9Y4hutmD_d_f0-a6XnAIrP1o5yGaz8YFjsbWTqm45fAvKyTtmPxia9h0MZbQO95RGO-AA_bd1oZSZ_s3rwDEXg)
 
+### Multiplying A Vector By Scalar
+If we multiply $\vec{A}$ by a scalar c, each componenet of product $\vec{D} = c\vec{A}$ is the product of c and the corresponding component of $\vec{A}$:
+
+$D_x = cA_x,    D_y = cA_y $    (Components of $\vec{D} = c\vec{A}$)    (1.8)
+
+For example, Eqs. (1 .8) say that each component of the vector 2A is twice as great as the corresponding component of A, so 2A is in the same direction as A but has twice the magnitude. Each component of the vector —34 is tluee times as great as the corresponding component of A but has the opposite sign, so —34 is in the opposite direction from A and has three times the magnitude. Hence Eqs. (1 .8) are consistent with our discussion in Section 1.7 Of multiplying a vector by a scalar (see Fig. 1. 15).
+
+## Unit Vectors
+
+A **unit vector** is a vector that has a magnitude of 1, with no units. Its only purpose is to _point_ —that is, to decribe a direction in space. Unit vectors provide a convinient notation for many expressions involving components of vectors. We'll always include a caret, or "hat" (^), in symbol for a unit vector to distinguish it from ordinaty vectors whose magnitude may or may not be equal to 1. 
+
+In an xy coordinate system, we can define a unit vector $\hat{i}$ that points in the direction of the positive x-axis and a unit vector $\hat{j}$ that points in the direction of the positive y-axis (Fig. 1.24a). The we can write a vector $\vec{A}$ in terms of its components as:
+
+$$
+
+
+
+
