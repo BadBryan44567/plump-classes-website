@@ -9,7 +9,6 @@ header:
       - MA Physics
     subtitle:
       -  Study Material, Solutions, Guides and Articles for Maths and Physics Students. 
-    titleColor: "#000000"
     titleShadow: false
     titleFontSize: 50
     subtitleColor: # #123456, red
