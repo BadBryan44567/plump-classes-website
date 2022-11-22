@@ -3,7 +3,7 @@ title: "Operations on Vectors"
 description: A Continuation to the Previous Post on Vectors. A dive into the operations which can be performed on Vectors.  
 date: 2022-11-18T19:00:24+05:30
 url: /posts/operations-on-vectors/
-image: images/operations-on-vectors.jpg
+image: images/operations-on-vectors.png
 libraries:
     - mathjax
 draft: false
@@ -161,3 +161,35 @@ We denote the scalar product of two vectors $\vec{A}$ and $\vec{B}$ by $\vec{A}$
 Thus _the scalar product of two vectors is the sum of the products of their respective components_ 
 
 The scalar product gives a straightforward way to find the angle $\phi$) between any two vectors A and B whose components are known. In this case we can use Eq. (1. 19) to find the scalar product of A and B. Example 1.10 shows how to do this.
+
+### Vector Product
+
+We denote the vector product of two vectors $\vec{A}$ and $\vec{B}$, also called the cross product, by $\vec{A}$ X $\vec{B}$. As the name suggests, the vector product is itself a vector. To define the vector product $\vec{A}$ X $\vec{B}$, we again draw the two vectors $\vec{A}$ and $\vec{B}$ with their tails at the same point (Fig. 1.30a). The two vectors then lie in a plane. We define the vector product to be a vector quantity with a direction perpendicular to this plane (that is, perpendicular to both $\vec{A}$ and $\vec{B}$) and a magnitude equal to $AB\sin\phi$. That is, if C = $\vec{A}$ X $\vec{B}$, then
+
+We measure angle $\phi$ from $\vec{A}$ toward $\vec{B}$ and take it to be smaller of the two possible angles, so $\phi$ ranges from 0 to 180 degrees. Then $\sin \phi >= 0$  and C in the Eq (1.20) is never negative, as must be the case for a vector magnitude. Note that when $\vec{A}$ and $\vec{B}$ are parallel or antiparallel, $\phi$ = 0° or 180° and C = 0. 
+
+That is, _the vector product of two parallel or antiparallel vectors is always zero._ In paticular, _the vector product of any vector with itself is zero._
+
+![](https://lh4.googleusercontent.com/Iiih7wZNDg-ukPE4SDAuivQQ5hVrBLLkSq17QI2Ud_uAeg0cUt5oPXSGMFAUXUFweOpw-1xSxtPs7oCQievQlz54bnSsNgKOf2x-8cTtG5LP9tMT1jRV0pqdhDsGxuztjJ5hHrZzlRsZgcWQZ_KOveZ9UUhktrNFU2vQkeea2JACg38VRfje6rRM87K4XwW4xsjNvgcfVg)
+
+1[](https://lh5.googleusercontent.com/y1PeoJRXHojJfPwckCl0L7CFW1cFYhh3jXlk0-I-3qVHGu_YLqsQYArrCXrjIvzeKmLuCn-RfArwKFjQCx5x9KHUt70dLdhnlK6UC3T6KzzIYXJBy-E1izfFHkXKbwiegF6mWFxQw6rt294Oxb5FRrncBeyrHnKHJAaTkHttQg3eFf9rcBfl4EYBVMSmdNF2jwRNPsuITA)
+
+There are always two directions perpendicular to a given plane, one on each side of the plane. We choose which Of these is the direction Of $\vec{A}$ X $\vec{B}$ as follows. Imagine rotating vector $\vec{A}$ about the perpendicular line until $\vec{A}$ is aligned with $\vec{B}$, choosing the smaller of the two possible angles between $\vec{A}$ and $\vec{B}$. Curl the fingers of your right hand around the perpendicular line so that your fingertips point in the direction Of rotation; your thumb will then point in the direction of $\vec{A}$ X $\vec{B}$. Figure 1.30a shows this right-hand rule and
+describes a second way to think about this rule. 
+
+Similarly, we determine the dilection of $\vec{B}$ X $\vec{A}$ by rotating $\vec{B}$ into $\vec{A}$ as in Fig. 1.30b. The result is a vector that is opposite to the vector $\vec{A}$ X $\vec{B}$. The vector product is not commutative but instead is anticommutative: For any two vectors $\vec{A}$ and $\vec{B}$,
+
+ $\vec{A}$ X $\vec{B}$ = $-\vec{B}$ X $\vec{A}$
+
+Just as we did for the scalar product, we can give a geometrical interpretation Of the magnitude of the vector product. In Fig. 1.31a, $B\sin\phi$ is the component of vector $\vec{B}$ that is perpendicular to the direction of vector $\vec{A}$. From Eq. (1.20) the magnitude of $\vec{A}$ X $\vec{B}$ equals the magnitude Of $\vec{A}$ multiplied by the component Of $\vec{B}$ that is perpendicular to $\vec{A}$. Figure 1.31b shows that the magnitude of $\vec{A}$ X $\vec{B}$ also equals the magnitude of $\vec{B}$ multiplied by the component of $\vec{A}$ that is perpendicular to $\vec{B}$. Note that Fig. 1.31 shows the case in which d) is between 00 and 900; draw a similar diagram for between 900 and 1800 to show that the same geometrical interpretation of the magnitude of $\vec{A}$ X $\vec{B}$ applies.
+
+![](https://lh4.googleusercontent.com/ysPiQ7jLQ-GJO42COhQsnLSiLZSPvdu-3_H62iBIaB3C4_HBofRNk_gmbR1-28n8chNBLPScufnL7jwnNYj38ckjPvn-zdtIjstCS-qYqrR6h92WSGsDZmzo-c6DRrNT4czHkfHqTgzuPVMHETBTco_SMf2swcZYl6yqpqQ-n0Lqku_3g-9-Op3L4Eq2KBQ014P5GPyIqA)
+
+![](https://lh6.googleusercontent.com/JJWbF1CQnCao7QNu9pjhhW2I9ye7BpysDcTr-ZMt5AZdqIZg1R35JBpXDIaRXiXxW3y942KT7N1W1VXT9jFuuSpZCrH4mQY5kgDl32dPo7dLAyDWlnMyKF1zGtR-95w0wQN_0P_3HIq5_2k2AP3Ks7PsHbHSbz-Xkmk5uRn19rctqsrmZK_nrK_dgrxqE6-PMVRy3Iff3Q)
+
+#### Using Components to Calculate the Vector Product
+
+![](https://lh6.googleusercontent.com/mA_Hly0GqVmoYux11SH-oB7LdnwhVg-w8DFHTLXUe1iPBaFBhXgKFZX0Yptindu9tGQGZPDitIjVorZVoLPcjZI2xT_exUbm3_esBMGiW7nxJ6X4h7U27caCQ5Uk9x54g4D_sAxXHJOrW-XcpDM7ul1_z_oi96b07EYCiqU0BvGuglqx8ES6_jB3GtGVmQgXMIj_tfvwwA)
+
+![](https://lh4.googleusercontent.com/C7OzmcIHG5WzM6BzfyqM7VI54FkzRkB5Y4FLjKxthyRzA2jn--6XcZ7bgwXvlpDhB-7iY-3RIXilQta34ijyLphUISlxWDBxPyT30R3nTUzne4gtj8GnLILAZSm__5nGw8wYdhP78bJlupACEXu-CqcvZZJYnPcRlmuTt1hpC2Da1zeirQz_tbofCqL94YdbVmBSLMmsDA)
+
