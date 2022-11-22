@@ -9,7 +9,7 @@ hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 summaryLength = 70 # The length of a post description on a list page.
 buildFuture = true # if true, we can use future date for talks page
 
-copyright = "©2022, All Rights Reserved" # copyright symbol: $copy; current year: 2022
+copyright = "" # copyright symbol: $copy; current year: 2022
 timeout = 10000
 enableEmoji = true
 paginate = 13 # Number of items per page in paginated lists.

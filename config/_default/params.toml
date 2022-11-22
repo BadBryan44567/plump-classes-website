@@ -14,7 +14,7 @@ notAllowedTypesInArchive = ["about", "talks", "showcase"] # not allowed page typ
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "widest" # widest, wider, wide, normal, narrow
+viewportSize = "adaptive" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
@@ -28,7 +28,7 @@ homeHeaderType = "text" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+showMobileMenuTerms = []
 
 # navbar
 enableThemeChange = false # site color theme
@@ -53,7 +53,7 @@ whoami = "Physics Teacher"
 bioImageUrl = "https://atulhost.com/wp-content/uploads/2019/07/indian-flag-full-hd-tricolour-flag-of-india-waving.jpg" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
 location = "Manglore, Karnataka, India"
-organization = "V-School"
+organization = "MA Physics"
 link = ""
 
 # sidebar
@@ -68,7 +68,7 @@ enableListSidebarTitles = true
 enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false # Hide or Show toc
 tocPosition = "inner" # inner, outer
-tocFolding = false
+tocFolding = true
 enableTocSwitch = true # single page table of contents visibility switch
 itemsPerCategory = 0 # maximum number of posts shown in the sidebar.
 sidebarPosition = "right" # bio, profile component layout position
