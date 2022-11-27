@@ -1,71 +1,17 @@
 .footer {
-	margin: auto;
-	width: inherit;
-	max-width: inherit;
-	height: 100px;
+	padding: 0 0.5rem;
 	position: relative;
   
 	@include themify($themes) {
 	  color: themed('footer-color');
 	  background-color: themed('footer-background-color');
 	}
-
-	  &__branding {
-	  	height: 100px;		
-	  	@include flexbox();
-	  	@include align-items(center);
-	  	@include flex-shrink(0);  
-	  }
-
-	  &__logo {
-	  	width: 242px;
-	  	height: 100px;
-	  	@include align-items(center);
-	  	&-link {
-	  	  width: 40px;
-	  	  height: 40px;
-	  	  padding: 0rem;
-	  	  margin: auto 0.25rem;
-	  	  @include flex-shrink(0);
-	  	  flex-shrink: 0;
-	  	}
-	    }
-	
-	  &__long {
-		&-link {
-		  width: 100%;
-		  height: 100%;
-		  padding: 0px;
-		  margin: auto 0.25rem;
-		  @include flex-shrink(0);
-		  flex-shrink: 0;
-		}
-	  }
-	
-	  &__title {
-		height: 100px;
-		font-size: 1.5rem;
-		font-family: $title-font;
-	
-		@include flexbox();
-		@include align-items(center);        
-		
-		&-link {
-		  @include themify($themes) {
-			color: themed("navbar-title-color");
-			@include on-event {
-				text-decoration: none;
-				color: themed("navbar-title-color");
-			}
-		}
-	}
-}
   
 	&__social {
 	  padding: 0.5rem 0;
 	  position: -webkit-sticky;
 	  position: sticky;
-	  bottom: 100px;
+	  bottom: 60px;
 	  
 	  @include flexbox();
 	  @include justify-content(center);
@@ -141,7 +87,7 @@
 		bottom: 100%;
 		left: 0;
 		display: none;
-		height: 100px;
+		height: auto;
 		z-index: z("dropdown");      
 		border-top-left-radius: 0.15rem;
 		border-top-right-radius: 0.15rem;
@@ -165,7 +111,7 @@
   
 	  &-item {
 		padding: 0.25rem 0.75rem;
-		height: 100px;
+		height: 100%;
 		min-width: 40px;
 		max-width: 150px;
 		text-decoration: none;
@@ -224,8 +170,6 @@
 	.dropdown:hover .dropdown-content {
 	  display: block;
 	}
-
-	
   
 	hr {
 	  @include themify($themes) {
