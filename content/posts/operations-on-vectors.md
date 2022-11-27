@@ -6,6 +6,7 @@ url: /posts/operations-on-vectors/
 image: images/operations-on-vectors.png
 libraries:
     - mathjax
+authorImageUrl: "https://atulhost.com/wp-content/uploads/2019/07/indian-flag-full-hd-tricolour-flag-of-india-waving.jpg"
 draft: false
 ---
 **Disclamer: This Post is a continuation on The Original Post, "Vectors In Physics". It is recommended to read that one first.**

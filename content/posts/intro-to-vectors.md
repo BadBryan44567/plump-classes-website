@@ -6,6 +6,7 @@ url: /posts/intro-to-vectors/
 image: images/intro-to-vectors.png
 libraries:
     - mathjax
+authorImageUrl: "https://atulhost.com/wp-content/uploads/2019/07/indian-flag-full-hd-tricolour-flag-of-india-waving.jpg"
 draft: false
 ---
 ## Introduction
