@@ -5,9 +5,6 @@ date: 2022-12-05T19:24:56+05:30
 url: /posts/forces/
 image: images/forces.jpg
 authorImageUrl: "https://atulhost.com/wp-content/uploads/2019/07/indian-flag-full-hd-tricolour-flag-of-india-waving.jpg"
-
-libraries:
-    - mathjax
 draft: false
 ---
 ## Force

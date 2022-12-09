@@ -7,9 +7,6 @@ image: images/Lorem-Ipsum.png
 categories:
     - Physics
     - Math
-
-libraries:
-    - mathjax
 draft: false
 ---
 
