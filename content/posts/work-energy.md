@@ -70,7 +70,7 @@ Thus, kinetic energy depends on both mass and velocity of the object.
 ### Potential Energy
 #### Gravitaional Potential Energy
 Let us consider the gravitational potential energy, here the work done against the gravity on an object is stored in the form of gravitational potential energy. The force acting on an object is its weight(mg), and the displacement is the distance moved by the object from the reference point.
-[](https://lh4.googleusercontent.com/9W66WMwQZu8Kx4r3VmcW0yMxGNjO7NS_CUm9ss32zwczEpP4oa4BwSrdaUtbibZrtbrLFNH2mp1lnjIrSc185Y48BAfc3i0-AcG_QmmRw-Qdzg5aao5F_d18oUSfdIDT6YGCm-0VGCko-_oTamnf-CHCH_5e5Umz3qonpWEd0tlQcp-nV9x7CDMxvhGBXrayaOJFhkyzGg)
+![](https://lh4.googleusercontent.com/9W66WMwQZu8Kx4r3VmcW0yMxGNjO7NS_CUm9ss32zwczEpP4oa4BwSrdaUtbibZrtbrLFNH2mp1lnjIrSc185Y48BAfc3i0-AcG_QmmRw-Qdzg5aao5F_d18oUSfdIDT6YGCm-0VGCko-_oTamnf-CHCH_5e5Umz3qonpWEd0tlQcp-nV9x7CDMxvhGBXrayaOJFhkyzGg)
 $w = \vec{f} \times \vec{d}$
 $w = mgh$
 
@@ -90,7 +90,7 @@ According to **Hooke’s law** $F=-kx$
 Where F is the restoring force and k is the force constant and x is the displacement.
 
 Let us try to understand the meaning of **restoring force**. Whenever we apply a force on an object, it changes the shape of the object. In case of elastic materials, the object tries to restore its original shape. The force which acts opposite to the applied force, to bring the object back to its original shape is called the **restoring force**.
-[](https://lh5.googleusercontent.com/m43Yrdufw76hulY7656YFZTC6UVrIPwJKmRtOZmIRMs3lvkMAyl1nHCWthi8aVvEKuu5ClrW_BF_OBT2fG002o-uYyDZ9QYN0-zGjXvh3-Q6pCfRTMPLtUFDiCLUSefIznWGUkJIFJ04TczCE6CeNOvs1nyxXbkJm-ZEGnZIWEH4WjC9ofwEj90mPakJK2eVDLatjSszmQ)
+![](https://lh5.googleusercontent.com/m43Yrdufw76hulY7656YFZTC6UVrIPwJKmRtOZmIRMs3lvkMAyl1nHCWthi8aVvEKuu5ClrW_BF_OBT2fG002o-uYyDZ9QYN0-zGjXvh3-Q6pCfRTMPLtUFDiCLUSefIznWGUkJIFJ04TczCE6CeNOvs1nyxXbkJm-ZEGnZIWEH4WjC9ofwEj90mPakJK2eVDLatjSszmQ)
 Initially there is no force acting on the object and then because of the applied force, restoring force comes into picture. Hence, we have to take the average force.
 
 Average Force $$F = \frac{0 + kx}{2}$$
@@ -106,7 +106,7 @@ Before proceeding further, let us see different types of forces.  There are two 
 **Conservative forces** do not depend on the actual path followed by the body. In a closed system total work-done by the conservative forces is zero. Example gravity. 
 
 *Work done by the conservative forces* gets stored in the object will conserve where as the work done by the non-conservative forces will not conserve. Non conservative forces depend on the actual path followed by the object. Example friction.
-[](https://lh4.googleusercontent.com/kVSWjV3jRm_9GxO1hzN2UJ5LhvKcPXWSSari23JsrtpX4wCfGNhQSHmtxyOS1U_faCVIKqqGjI2DJvdR5CFmr6Q5_FFSBoozHJhcpcpAfb9IETVznW4jak8mjlekAak6r9t9dR9SiI-IUAhxiDseXcZ5xfklqFLUGeGTPeJ9iwYZ9JtvI4AHVoWwgE54RgiYRaFd-05skw)
+![](https://lh4.googleusercontent.com/kVSWjV3jRm_9GxO1hzN2UJ5LhvKcPXWSSari23JsrtpX4wCfGNhQSHmtxyOS1U_faCVIKqqGjI2DJvdR5CFmr6Q5_FFSBoozHJhcpcpAfb9IETVznW4jak8mjlekAak6r9t9dR9SiI-IUAhxiDseXcZ5xfklqFLUGeGTPeJ9iwYZ9JtvI4AHVoWwgE54RgiYRaFd-05skw)
 ## Angle on the Work Done
 
 Let us see the role of angle on the work done by the object.
@@ -126,7 +126,7 @@ If the angle between the force and displacement is 180° then the work is done b
 {{<boxmd>}}
 **Caution: - while calculating the angle between the force and displacement, you should be careful not to consider the ramp angle if the object is on the ramp. In the below picture, the object is on the ramp with an angle $\theta$, but the angle between the force and displacement is zero.**
 {{</boxmd>}}
-[](https://lh3.googleusercontent.com/1iKlQQxgST3kHB5VLQoR64ksZp8n1g9rfsmR8zZqzXvFD62jgQk2I6TsWOt-8zEHFAllXHxf-D7YiDEBWBOVPmubtNT6jYlWJIBBptTO5alMvh04e2yM9Pu4sUR0M9XS-DJ3mIcpjWSKY4fl4WTelRwpqeks63C8g77kC0HHt2EtA0vk4kfww-I-Lr_mWJJ4TGdSzaE-og)
+![](https://lh3.googleusercontent.com/1iKlQQxgST3kHB5VLQoR64ksZp8n1g9rfsmR8zZqzXvFD62jgQk2I6TsWOt-8zEHFAllXHxf-D7YiDEBWBOVPmubtNT6jYlWJIBBptTO5alMvh04e2yM9Pu4sUR0M9XS-DJ3mIcpjWSKY4fl4WTelRwpqeks63C8g77kC0HHt2EtA0vk4kfww-I-Lr_mWJJ4TGdSzaE-og)
 ## Conservation of Energy
  
 Conservation of energy: - Energy of an isolated system remains constant.
@@ -151,19 +151,19 @@ $$k = \frac{1}{2}mv^2 = \frac{1}{2}m(2gh) = mgh $$
 $$ k = \frac{k}{2} = \frac{1}{2}mgh$$
 $$U_g = mg(\frac{h}{2})$$
 Energy $$ E = U_g + k  = \frac{mgh}{2} + \frac{mgh}{2} = mgh$$
-[](https://lh4.googleusercontent.com/aJsDhiMJ2od4hANEkiT-M8PmY5OVr3LJwt7EOwHhdEBtibWUZVEXw8t2an7czep9wDRp8dRva7DPuAdXUuTxrpMJ1q2Jl24Vdci1By4IZbCCN6U88jlPKn7I-0URFfB82JgmWaaDM0PEQnATwXAP1qlAkUn2VknjW8rtA2CWiMCcoqlrthcydrTnbC4o3Jg8HOeoxqxmQg)
+![](https://lh4.googleusercontent.com/aJsDhiMJ2od4hANEkiT-M8PmY5OVr3LJwt7EOwHhdEBtibWUZVEXw8t2an7czep9wDRp8dRva7DPuAdXUuTxrpMJ1q2Jl24Vdci1By4IZbCCN6U88jlPKn7I-0URFfB82JgmWaaDM0PEQnATwXAP1qlAkUn2VknjW8rtA2CWiMCcoqlrthcydrTnbC4o3Jg8HOeoxqxmQg)
 Conservation of energy can be represented by bar charts also known as lol diagrams.
 Let us see one example of the bar chart representing the conservation of energy.
-[](https://lh6.googleusercontent.com/y_aYUKwXueTkWUf9S0zhA6WaI_1syqIM3MvKRR75xvDvZA6RM4GWrhcu6E_-4Y1pUAXzTUtmtx4oC44dxy29atZJyoK2qo3ylAWh8MSIO0a_3Zvntg9k50rC7bRtonn7nVAJT08Qd3CyX4u854Z3vg1kHIRYxoVkg3O5EFJBNuzGvLOEX60735K6zY_JniRVA_oR_zFOoA)
-[](https://lh5.googleusercontent.com/MWHxwwfo0ZDtjYLsa3n2ZANt_ThbroWaKn_6AKU6U5jQVLktUY6H_roUxGxlUnyFsn7UgrYNyc1ZHovc4zZOYFj_xiwmRWIqwfGI79SGmQ6G5kYZ1QMMsW2ExkUfRvHbVdk-8LP5j6eusysxcs4-R7SsuUaXQ2lgnqTLUsv-k2qwp-vTw6GZ87NUJI1pd6UWp5qru64XOw)
+![](https://lh6.googleusercontent.com/y_aYUKwXueTkWUf9S0zhA6WaI_1syqIM3MvKRR75xvDvZA6RM4GWrhcu6E_-4Y1pUAXzTUtmtx4oC44dxy29atZJyoK2qo3ylAWh8MSIO0a_3Zvntg9k50rC7bRtonn7nVAJT08Qd3CyX4u854Z3vg1kHIRYxoVkg3O5EFJBNuzGvLOEX60735K6zY_JniRVA_oR_zFOoA)
+![](https://lh5.googleusercontent.com/MWHxwwfo0ZDtjYLsa3n2ZANt_ThbroWaKn_6AKU6U5jQVLktUY6H_roUxGxlUnyFsn7UgrYNyc1ZHovc4zZOYFj_xiwmRWIqwfGI79SGmQ6G5kYZ1QMMsW2ExkUfRvHbVdk-8LP5j6eusysxcs4-R7SsuUaXQ2lgnqTLUsv-k2qwp-vTw6GZ87NUJI1pd6UWp5qru64XOw)
 Next spring is out of the system.
 Energy transfer takes place between the system and surroundings by means of doing the work.
 The diagram looks like this.
-[](https://lh6.googleusercontent.com/6eIsyA2zu3i7oyfa1EF-axXfTqeUTLhT0qYr8s8POMP8t2QM4cj4nOk0X73XjwYyTApD88juLPE0bYnwwVevm0EYirEjxUR49QZvr30ZTjlrTroA9wbLpWg5b0AFWU1ERZgcSSX0LMj2Gj13DyE0K0ifm-jlKbF-1tyt6xPCD5P3wMwu1JCLVucttYHm4NplBrjVCvjN1A)
+![](https://lh6.googleusercontent.com/6eIsyA2zu3i7oyfa1EF-axXfTqeUTLhT0qYr8s8POMP8t2QM4cj4nOk0X73XjwYyTApD88juLPE0bYnwwVevm0EYirEjxUR49QZvr30ZTjlrTroA9wbLpWg5b0AFWU1ERZgcSSX0LMj2Gj13DyE0K0ifm-jlKbF-1tyt6xPCD5P3wMwu1JCLVucttYHm4NplBrjVCvjN1A)
 Now we include friction into the system.
-[](https://lh5.googleusercontent.com/ipIUmVlho7ddkrlx7XM7MZCXnir635OOAHZ8vc_CtFabBfQAdqUjoWNYmfs0iunfLEXsiOLtXE9faNhsuFsQ7EAiPRPFRTWa_dB_PUKJVNTh6xJb3OEE8iLhjE87GtHI1gADI5FR-AdEU39ZAKxRpuT-Dbp3uSMJrbwO9tURBzaDS2Had1L5uoHkGvDdftU_ya1_yk-3Eg)
+![](https://lh5.googleusercontent.com/ipIUmVlho7ddkrlx7XM7MZCXnir635OOAHZ8vc_CtFabBfQAdqUjoWNYmfs0iunfLEXsiOLtXE9faNhsuFsQ7EAiPRPFRTWa_dB_PUKJVNTh6xJb3OEE8iLhjE87GtHI1gADI5FR-AdEU39ZAKxRpuT-Dbp3uSMJrbwO9tURBzaDS2Had1L5uoHkGvDdftU_ya1_yk-3Eg)
 Next, we consider the cart at an intermediate position, instead of at the top.
-[](https://lh6.googleusercontent.com/P6be2sl4gi65nIFZHo4kKU6XPsbcLAuVkXNjhlckfI2ItGB6ioLGHvbzprAvoAYey_FkU1x2K_5Gumoz1AafN7-yv_NdbMJO20FDsSDNOF843QPnvgl4a_qFHVjjiGGch16tB3Q233gep-_EcPSXruppBnR7mIT3vC1Dx9GA6ukLDfAD2KmopcJtKa_sKYb0PThtjpLL3A)
+![](https://lh6.googleusercontent.com/P6be2sl4gi65nIFZHo4kKU6XPsbcLAuVkXNjhlckfI2ItGB6ioLGHvbzprAvoAYey_FkU1x2K_5Gumoz1AafN7-yv_NdbMJO20FDsSDNOF843QPnvgl4a_qFHVjjiGGch16tB3Q233gep-_EcPSXruppBnR7mIT3vC1Dx9GA6ukLDfAD2KmopcJtKa_sKYb0PThtjpLL3A)
 {{<boxmd>}}
 **While drawing these charts one should be careful about the number of blocks. Left side blocks should be equal to right side blocks. Initial energy is 5 units so final energy must also be equal to 5 ( 3.5 + 1.5 )**
 {{</boxmd>}}
