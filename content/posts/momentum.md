@@ -3,7 +3,7 @@ title: "Momentum"
 description: A brief Introduction to Momentum
 date: 2022-12-09T17:02:15+05:30
 url: /posts/momentum/
-image: images/momentum.jpg
+image: images/momentum.jpeg
 authorImageUrl: "https://atulhost.com/wp-content/uploads/2019/07/indian-flag-full-hd-tricolour-flag-of-india-waving.jpg"
 
 libraries:
