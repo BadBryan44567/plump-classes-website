@@ -64,4 +64,13 @@ The above example can be seen by a numerical example
 
 Here,
 
+$$m = 25000 kg$$
+$$\vec{v_i} = 24 ms^-1$$
+$$\vec{v_f} = 0 ms^-1$$
+$$t = 20s$$
+$$\vec{F} = \frac{25000 \times (24-0)}{20} = 30,000 N$$
+$$\vec{F} = \frac{25000 \times (24-0)}{2} = 300,000 N$$
+$$\vec{F} = \frac{25000 \times (24-0)}{0.2} = 3,000,000 N$$
 
+
+Above example clearly shows the relation between the time and Impulsive force.
