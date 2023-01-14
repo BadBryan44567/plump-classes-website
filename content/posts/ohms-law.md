@@ -13,8 +13,6 @@ Ohm’s law gives the relationship between the current flowing through the condu
 For all the other physical parameters being constant, the current flowing through a conductor is proportional to the voltage across the conductor.
 Thus, 
  $$ i = \frac{v}{r} $$
-
-
 Where i= current flowing through the conductor (ampere)
 v=voltage across the conductor (volt)
 r=resistance offered by the conductor (ohm)
