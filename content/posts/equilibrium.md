@@ -24,7 +24,7 @@ According to Newton's second law, acceleration is proportinal to force.Expressin
  We have to write the x-component forces and y-component forces.
  x-component forces are balanced as-one is acting towards positive direction and the other in negative direction.
  y-component forces are balanced by the weight.
- $$F_y=F_t sinsin\theta=F_g$$
+ $$F_y=F_t sin sin\theta=F_g$$
  $$F_g=1.5kg\times 9.8\frac{N}{kg}=14.7N$$
  $$ F_t sinsin30^0=14.7N$$
  $$F_t=29.4N$$
@@ -61,4 +61,41 @@ $$F_Ty = 156.80N$$
 Sum of the forces in the horizontal direction is equal to zero.
 $$\sum F_x = 0$$	
 $$F_{Hx} = F_{Tx}$$  
-From the geometry of the figure, $$tantan\theta=\frac{F_Ty}{F_Tx}$$
+From the geometry of the figure, $$\tan \tan\theta=\frac{F_Ty}{F_Tx}$$
+$$F_Tx=\frac{FTy}{tantan\theta}$$
+$$F_Tx=\frac{156.80N}{tantan30^0}=271.58N$$
+$$F_T=\sqrt(F_Tx)^2+(F_Ty)^2$$
+$$F_T=\sqrt(271.58)^2=(156.80)^2$$
+$$F_T=313.59N$$
+$$F_Hx=271.58N$$
+$$F_H=\sqrt{F_Hx}^2+{F_Hy}^2$$
+$F_{Hy} = 0$ (Since Hinge is the axis of rotation.)
+$$F_H=\sqrt{271.58}^2+{0}^2$$
+$$F_{H}=271.58N$$
+
+*The two objects are balanced on the pivot. What is the distance d?*
+$$\sum\tau=0$$
+Weight of the 3.0kg object acts at the mid-point of the object ie.,0.75m. Weight of the 1.5 kg object acts at 1.5m. The sysstem is in equilibrium. Calculate the moments from the left end.
+$$1.5kg\times9.8N/kg\times(d-0.7)m=3.0\times9.8N/kg\times(2.25-d)m$$
+$$1.5\times(d-0.75)=3\times(2.25-d)$$
+$$4.5d=7.875$$
+$$d=1.75m$$
+
+A 3-meter uniform plank of mass 50 kg rests on the top of a building with 1-meter extended over the edge as shown. How far can a 15kg caaat venture past the edge of the building on the plank before the plank jusst begins to tip?
+Let the corner of the building be the pivot. Weight of the plank provided torque on the left and the weight of the caat provides torque on the right.
+
+$$50\times9.8\times(1.5-1.0)=15\times9.8\times(1.0-d)$$
+$$d=\frac{10}{15}=0.66m$$
+
+To weigh a fish, a person hangs a tackle box mass 2.5 kg and a cooler of mass 4.0kg from the ends of a uniform rigid pole that is suspended by a rope attached to hits centre. The system balances when the fish hands at a point 1/4 of the rod's length from the tackle box. what is the mass of the fish?
+
+$$2.5\times{l/2}+fish\times{l/4}=4\times{l/2}$$
+
+* mass of the fish = 3 kg *
+
+Let us see some conceptual examples from our day-to-day life.
+It is our common experience that the cloth line will never be straight however besst we try to make it perfectly horizontal. The reason is there must always be a vertical component of the tension force in the rope to balance the weight of the clothes.
+
+Similarly, during the final stage of descent, a sky-diver with an open parachute approaches the ground with a constant velocity. This is because, the force of gravity and the drag force balance each other and the sky diver will be in static equilibrium.
+
+But if a stone falls from the roof of a tower, the stone is not in equilibrium, because the air resistance is negligible compared to the force of gravity. Hence it accelerates.
