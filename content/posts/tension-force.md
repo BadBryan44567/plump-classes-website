@@ -78,3 +78,24 @@ $$a=\frac{(3-(0.20)7)\times10}{7+3} = 1.6m/s^2$$
 Block B  
 $\sum F_{yB} = F_{NB} - m_B \times g \cos\cos 30° =59.40N $
 $$ F_{fr} = \mu F_{NB} =0.3 \times 59.40 = 17.83N $$
+Direction of motion of block B is taken as positive.
+$$\sum F_{xB}=-F_T -F_fr + mg\sin\sin\theta_B = m_B\times a$$
+$$-F_T - 17.83N+7.0\times 9.8\times \sin\sin30^0=m_B\times a$$
+$$-F_T +16.48N=7.0(a)\to2$$
+Adding equations (1)and (2)
+$$F_T -29.87N+(-F_T +16.48N)=3.0(a)+7.0(a)$$
+$$-13.39=10.0(a)$$
+$$a= -1.34m/s^2$$
+
+Suppose the coefficient of kinetic friction between m_A and the plane in fig.is 
+$\mu_k = 0.20$ and that $m_A=m_B=m$.  As m_B moves down, determine the magnitude of the acceleration of $m_A$ and $m_B$ and given $ \theta =35^0 (a)$ What smallest value of $\mu_k$ will keep the system from accelerating? [ignore masses of the (frictionless) pulley and the cord.]
+Both the blocks have the same mass and block B is going down, so acceleration is negative. Eventually, Block A moves up so acceleration is positive.(we are taking upward forces as positive and downward forces as negative.)
+$$\sum F_{yB} = F_T - F_g = -ma$$
+$$F_T=F_N - mg\cos\cos\theta = 0$$
+$$F_fr = \mu F_N$$ 
+$$\sum F_xA=F_T - F_fr - mg\sin\sin\theta = ma$$
+$$a=\frac {(1-\mu \cos\cos\theta - \sin\sin\theta) g}2 = 0$$
+$$\mu _k\cos\cos\theta = 1 - \sin\sin\theta$$
+$$\mu _k = \frac {1-\sin\sin\theta}{\cos\cos\theta}$$
+$$\mu _k = 0.52$$
+

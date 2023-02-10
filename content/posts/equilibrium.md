@@ -1,6 +1,6 @@
 ---
 title: "Equilibrium"
-description:
+description: A Post explainign forces in equilibrium.
 date: 2023-02-02T15:31:56+05:30
 url: /posts/equilibrium/
 image: images/equilibrium.jpg
