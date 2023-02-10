@@ -47,3 +47,34 @@ $$\sum{F_y}=F_T-F_g=-m_2a$$
 negaative sign indicates mass $ m_2 $ is going down. (we consider downwaaard directiion as negative)
 
 Force equation for $ m_1 $
+$$\sum{F_y}=F_N-F_g=0$$
+$$\therefore{F_N}=F_g$$ but
+$${F_fr}=\mu_kF_N$$
+$$F_fr=\mu_km_1 g$$
+$$\sum{F_x}=F_T-F_fr=m_1 a$$
+$$F_T=F_fr+m_1 a$$
+substituting $ {F_T} $ in the equation 1
+$$F_fr+m_1 a - m_2 g=- m_2 a$$
+$$(m_1+m_2)a=(m_2 - \mu_km_1)g$$
+$$a=\frac{(m_2 -\mu_km_1)g}{(m_1+m_2)}$$
+
+To understand better, we will input some numerical values.
+
+$$m_1=7kg; m_2=3kg; \mu_k = 0.20;g=10m/s^2 $$
+$$a=\frac{(3-(0.20)7)\times10}{7+3} = 1.6m/s^2$$
+**avoid this mistake**: generally, students do the mistake by seeing the right-side forces (tension and weight) of the second mass balance each other, hence tension is equal to weight of the second mass. But that is not true. Here the block is going down with an acceleration.
+
+ Two masses m_A = 3.0 kg and m_B=7.0 kg are on inclines and are connected together by a ssstring as shown in fig. The coefficient of kinetic friction between each mass and its incline is $ \mu_k=0.30 $ If $ m_A $ moves up, and $ m_B $ moves down, determine their acceleration. [Ignore masses of the frictionless pulley and the cord.]
+ Let us write the force equations for the blocks A and B.
+ Block A goes up and block B goes down. since blocks are tied together their tension and acceleration are same.
+ Block A (direction of motion of block A is taken as positive)
+ $$\sum F_yA = F_NA - m_A \times g \times\cos\cos \theta A  =0$$
+ $$F_NA=3.0 \times 9.8\times \cos\cos 60°=14.7N$$
+ $$F_fr=\mu F_{NA}= 0.3 \times 14.7=4.41N$$
+ $$\sum F_{XA}=F_T -F_fr -mg\sin\sin\theta A = m_A a$$
+ $$F_T - (F_fr+mg\sin\sin\theta A)=m_A a$$
+ $$F_fr+mg\sin\sin\theta_A = 4.41+25.46=29.87N$$
+ $$F_T - 29.87N=3.0(a)\to1$$
+Block B  
+$\sum F_{yB} = F_{NB} - m_B \times g \cos\cos 30° =59.40N $
+$$ F_{fr} = \mu F_{NB} =0.3 \times 59.40 = 17.83N $$
