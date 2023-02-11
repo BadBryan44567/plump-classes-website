@@ -13,12 +13,18 @@ draft: false
 ## Newton's Second Law and the Conditions of Equilibrium
 According to Newton's second law, acceleration is proportinal to force.Expressing mathematically, $F\propto a$ or $F=ma$ Where F is the force acting on the object, 'm' is the mass of the object and 'a' is the acceleration.
 
- In general, many forces act on an object at any instant of time. For example, if a book is lying on a table at rest, the forces acting on the book are gravity and normal force. since both the forces are balanced, the book is at rest. ie., the book is in static equilibrium. Here *the gravity and normal forces are not the action -reaction forces. They are two different forces acting on an object simultaneously.*
+ In general, many forces act on an object at any instant of time. For example, if a book is lying on a table at rest, the forces acting on the book are gravity and normal force. since both the forces are balanced, the book is at rest. ie., the book is in static equilibrium. 
+ 
+ {{<boxmd>}}
+**CAUTION: Here the gravity and normal forces are not the action -reaction forces. They are two different forces acting on an object simultaneously.**
+{{</boxmd>}}
 
  Thus, the firssst condition for equilibrium is net force must be equal to zero.
 
  Let us try to understand the concept with a numerical example.
 
+![](https://lh4.googleusercontent.com/D9MQ7dYlOkZnFdRcxNvi_HldSdQ8lHx3aOdNCTn1B_r8anx481eNzTgfiJhISAHTXFACkKGqv3KUYC9DMwSGr6hpf-PvXRKuLSaoDie89TbdM8ZKhV2pCK03vYW4gUjFDUFRPSX3vjNS9QuL6pouFg) ![](https://lh3.googleusercontent.com/p1zUkSqix_72cotEWuXYkL_DxmuiI-dXKhPf-chTtcfNRXrh4tlY6GwxgIx3oYhLdEXUINSRx8Q7-PR91kECuDDCC2ey27C8myC9q-HRqA0vyufGgfswc2R2hsWKH1hSYOXhGkx-SN4LlgSoQQ7r9g)    ![](https://lh3.googleusercontent.com/e-IKFSRU4bFoYxy13WIAjTd6z5Hnqk66iRrQ4BfJ-zn8zfahAIOnE1ntkqtQQztT7JtAW4pZ5YKuyrzLjt7r8THqDV2nxTRHmPSRBzlNznUtfTN_eaRkgF2EFxIIdbGTPuPerSGbrrFDsvjTgg3cvQ)
+ 
  A photo frame of 1.5kg is handing to a wall by two cables which are making an angle of $30^0$ with the horizontal. what is the tension force in each cable.
 
  We have to write the x-component forces and y-component forces.
@@ -42,12 +48,17 @@ According to Newton's second law, acceleration is proportinal to force.Expressin
  Let us write the conditions for equilibrium
  $$\sum F=0$$
  $$\tau = 0$$
+
+![](https://lh6.googleusercontent.com/-hPp8Ie5BW5F7iCpb9qRwZw3qUvkKhuOQwZSs5k5-aJSgqN1vHcQ4Wj_ZAJgzuO7FXp97mnwchUuj1pSUcltiLSi_m6JYMin8skOiV7WXiDOlkgkBzoNkqArULgJRduRm4q70NQcq4WOsuZ8J7CoKg)
+
  $$F_p=W_1+W_2+M g$$
  $$\sum\tau=0$$
  $$W_1\times{r_1} = W_2\times{r_2}$$
  We are calculating the torque through the pivot point P, the lever arm for$F_N$ & the board P is zero.
  $$36\times9.8\times2.0=30\times9.8\times{r_2}$$
  $$r_2=2.4m$$
+
+ ![](https://lh3.googleusercontent.com/q28RXNDHIQMjkJnDkC6u5A5FSy9wvWGF2tvO6it-ekCtmP5aBZuCGNMxAzRtKyzU971iDH-c6drNzqM6vEE3iLdXxK1f4GB-N_ULnrYsayCyaM_Ylw1Mpwqc3YMRy0nCrKbQU6ixYXKneGncgMALdA)
 
  A uniform beam 1.0m long with mass 2.0 kg is mounted by a small hinge on a wall as shown in fig. The beam is held in a horizontal position by a cable that makes an angle of 30^0. The beam supports a sign of mass 15kg suspended from its end. Determine the force exerted by the hinge and the tension in the supporting cable.
 
@@ -74,6 +85,9 @@ $$F_H=\sqrt{271.58}^2+{0}^2$$
 $$F_{H}=271.58N$$
 
 *The two objects are balanced on the pivot. What is the distance d?*
+
+![](https://lh3.googleusercontent.com/46wG1XGcJ32k3fWuQMHge5FpCIqEdhd-ma10OycY0WTzWk_ZAK9auUf4S2BdSerkm3OkOmrHyvsoEu7UIpLBAnpTkxCmUZvhteI_JYy56duMTkEixu86KvRWYRrBYBQj1SU8LWrXcoIq2L27l-hTxg)
+
 $$\sum\tau=0$$
 Weight of the 3.0kg object acts at the mid-point of the object ie.,0.75m. Weight of the 1.5 kg object acts at 1.5m. The sysstem is in equilibrium. Calculate the moments from the left end.
 $$1.5kg\times9.8N/kg\times(d-0.7)m=3.0\times9.8N/kg\times(2.25-d)m$$
@@ -84,10 +98,14 @@ $$d=1.75m$$
 A 3-meter uniform plank of mass 50 kg rests on the top of a building with 1-meter extended over the edge as shown. How far can a 15kg caaat venture past the edge of the building on the plank before the plank jusst begins to tip?
 Let the corner of the building be the pivot. Weight of the plank provided torque on the left and the weight of the caat provides torque on the right.
 
+![](https://lh4.googleusercontent.com/biEmGB-NNNez9OZIEjYheXzQEwDLL2e7skHfnTXg1ttv8RvHCQLdsel7XBS5cQ7ZbJ5eLvHTFAi_mHMCMI81fbY8ImtHesfinDlGe3LHZNdh1i_zAuOYsHNth52NFOi06axhrEdCQEcL554Ys_DJDg)
+
 $$50\times9.8\times(1.5-1.0)=15\times9.8\times(1.0-d)$$
 $$d=\frac{10}{15}=0.66m$$
 
 To weigh a fish, a person hangs a tackle box mass 2.5 kg and a cooler of mass 4.0kg from the ends of a uniform rigid pole that is suspended by a rope attached to hits centre. The system balances when the fish hands at a point 1/4 of the rod's length from the tackle box. what is the mass of the fish?
+
+![](https://lh4.googleusercontent.com/uDSt0UVg5mRkqv37uV-0NvL0BLigMeX0WePdTGaBMW3xD-X1h53GWmeDLrDQhFSCifWC-LfPCdVtkpjlG40vF1k8mXBYCe-oAIOHHXmiBaVFxhiqOG15aRGYKHnSQsBq9wpkUCMze_Avf2CnHYa2mA)
 
 $$2.5\times{l/2}+fish\times{l/4}=4\times{l/2}$$
 

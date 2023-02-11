@@ -44,6 +44,8 @@ To understand the concept,we have to look into the electric field defined by Far
 
 According to Michael Faraday, an electric field extends outward from every charage and permeates all of space(fig.1). If a second charge (call it $Q_2 $) is plced near the first charge, it feels a force exerted by the electric field thaat is there (say, at point P in fig.1). The electric field at point P is considered to interact directly with charge $ Q_2 $ to produce the force on $ Q_2 $
 
+![](/static/images/power-image-1.png)
+
 Now we will measure the elctric field surrounding a charge or a group of charges by measuring the force on a small positive test charge which is at resst.(Test charge means a charge so small that the force it exerts does not significatly affect the charges that create the field.) In fig 2 we placed a tiny positive test charge q in the vicinity of a single positive charge Q at different points A,B,C. The force exerted at C< B< A. Since the distance of C>B>A. The electric field, at any point divided by the magnitude of the test charge q.
 3 field at point P is considered to interact directly with charge $ Q_2 $ to produce the force on $ Q_2 $
 

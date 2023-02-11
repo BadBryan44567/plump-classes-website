@@ -40,6 +40,9 @@ Friction between the block and ground $= 0.4\times500\times9.8 = 1960 N$
 $$4900 - 1960 = 1500\times(a)$$
 $$a = 1.96\frac{m}{s^2}$$
 Force of the dozer on the block = $500\times1.96 = 980N$
+
+![](https://lh3.googleusercontent.com/A_54CvZIrs4BI56pu1dUbrhVEUo-VBWhUS3obXQlqRW0QsmVejel3G_nnpS2IHfbgw9kVTYDWUCzwbJjKeb44V2hsuUP0aadECuun4RCvIutSeWURcN6Yy41EZZ3AAxcMnbC1bNZJifCKqYR85IHOA)
+
 We can explain the rocket propulsion with the help of Newton's 3rd law.
 In rocket propulsion, rocket engine pushes the hot gases downwards, in turn the gases push the rocket in the upward direction. When this upward thrust or push exceeds the weight of the rocket, it accelerates upwards because of the unbalanced forces. (Note that earth is not pushing the rocket. It's only the hot gases from the rocket which are the reaction forces pushing the rocket upwards.)
 
@@ -49,7 +52,10 @@ In rocket propulsion, rocket engine pushes the hot gases downwards, in turn the 
 $$F_{12}= - F_{21}$$
 **another example**
 Henry pushes a grocery cart of mass 12.0 kg with 7.0 kg groceries in it. Mass of the Henry is 65.0 kg. Calculate the acceleration produced when Henry exerts a backward force of 150N on the floor. [all the forces opposing the motion, such as friction onthe cart's wheel and air resisstance, total 24.0N] calculate the force exerted by henry on the cart. 
-Let us consider Henry and grocery cart as system 1 and the groccery cart as sysstem 2
+Let us consider Henry and grocery cart as system 1 and the groccery cart as system 2
+
+![](https://lh3.googleusercontent.com/INHif8JY3dju3wgjROe3XzVs-dQ0vY4-A2IosAy0ucIMcDP7ZCeh2bj3F6W1o_BGcv6M_6h0s2C9mfrSs1o2SDTFpFvLzzxPHBT79Gb73VBbbs_rZeicugQks7nihR9kue5u8vf5CeZbgabb4ReNdQ)
+
 $$\Sigma F_{net}=F_{floor} - F_{fr}=ma$$
 $$a=\frac{150-24}{965+12+7}=\frac{126}{84}=1.5\frac{m}{s^2}$$
 
@@ -59,6 +65,9 @@ $$a=\frac{150-24}{965+12+7}=\frac{126}{84}=1.5\frac{m}{s^2}$$
  $$F_{push}=(19kg\times1.5m/s^2)+24.0N=53.0N$$
  Now we will apply Newton's 2nd and 3rd laws to interacting objects.
  The below figure shows a 4.0 kg object being pushed by 30.0 N force. In front of this block is 8.0 kg block. The two blocks move together. What is the force exerted by 4 kg block on 8 kg block [ignore frictional forces]
+
+![](https://lh6.googleusercontent.com/Pffnz6uQrSdmZJ5V41IF_pcAN7iwz73zCkSCqArf-1NqTgJ04mQaIAh3vHgMoFo7Zo8X3e7WB78Ofa7KmmEvCcpQPUiWfCDIGxq-4snRDsf4awXruCZ3vZuKmB6GpcEEUYIWuf7PlfOxAJjty6OFKQ)
+
  According to Newton's 2nd law,
  $$\Sigma F=ma$$
  $$30.0N=(4+8)kg\times(a)$$
@@ -79,8 +88,12 @@ $$F_(contact)-F_(fr)=ma$$
 $$F_(contact)=0.050 \times8 \times9.8 + 8 \times2.01=20.0N$$
 
 3kg,4kg,5kg boxes are lined up in a row on a frictionless table. All the three are pushed forward by a 24N force applied to the 3kg box.
+
 (a) How much force is exerted by a 4kg box on 5 kg box ?
 (b) how much force is exerted by a 4 kg box on 3 kg box?
+
+![](https://lh6.googleusercontent.com/hNxnHuZUIjCGATVHbFWD9qA-ON837doNUMuH-dgWDW0GdZtnrfmeZLvhu5pFHODrdAo6F0sXATAMIBpshWqGUI0hUlP4QmMJ6sqdRamNxuCsZGriGhUKi6NeBXCkPNIKoTLOwOB1mxUtqyfauAQRlA)
+
 total mass = 12kg
 $$\Sigma F_{net}=ma$$
 $$24N=12a$$

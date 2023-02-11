@@ -10,6 +10,9 @@ libraries:
 draft: false
 ---
 ## The Atwood Machine
+
+![](https://lh5.googleusercontent.com/SnpWLEF-GEdiy13vjgKgcMiCMUTrtTbqdy0VQMgnqIA2ZdCKaIwnI1bXYMM5Z8ieqjEyyIPAj1uuLH4wGOgspdIpeEk_KXjYPnhLW9CQmk-mRbvSWSkdbx4NGa3XB6hrgi-1318l8zfan0amng6mGg)
+
 The above system is called Atwood machine.
 To find the acceleration and tension in the cable, we have to write the force equations for the masses $ m_1$, $m_2$
 
@@ -42,6 +45,8 @@ Next problem-
 
 Two boxes are connected by a cord running over a pulley. The coefficient of kinetic frictiion between box A and the table is $ \mu_k $ We ignore the mass of the cord and pulley and any friction in the pulley, which means we can asume that a force applied to one end of the cord will have the same magnitude at the other end. We wish to find the acceleration, a of the system, which will have the same magnitude for both assuming the cord doesn't strect. As box B moves down, box A moves to the right.
 
+![](https://lh6.googleusercontent.com/dRzTyFB0rRmo994o6PX91fKpGKqLju9Iv72mXu25Dgsd-PyKHT-1ZWp_NSSaABbPTVbNGQbG9adGdcpUdOpG3E0mvJOijLTVeS2mTwg1Xd1syo2Xg4JAHS6zsnN_3PKByKkvYFUWmHse9bZJ-v-G8w)
+
 Let us write the force equation for $ m_2 $
 $$\sum{F_y}=F_T-F_g=-m_2a$$
 negaative sign indicates mass $ m_2 $ is going down. (we consider downwaaard directiion as negative)
@@ -69,6 +74,8 @@ $$a=\frac{(3-(0.20)7)\times10}{7+3} = 1.6m/s^2$$
 
 ## Numericals
 
+![](https://lh5.googleusercontent.com/OvuwlOnsgFxLuD5IrURlDYEYO1AbMsuXi6zPgrrQuCBS6aJkwuu8M_MYDoiYUnYkglpzUfmKKVnyAUe-uoaiQ43ivlyfVdp2fzOAZVrY_tMHw54U9v4w_C6VX1IO2JAJ7j65CiMxYMkimk44D8_ExQ)
+
  Two masses m_A = 3.0 kg and m_B=7.0 kg are on inclines and are connected together by a ssstring as shown in fig. The coefficient of kinetic friction between each mass and its incline is $ \mu_k=0.30 $ If $ m_A $ moves up, and $ m_B $ moves down, determine their acceleration. [Ignore masses of the frictionless pulley and the cord.]
  Let us write the force equations for the blocks A and B.
  Block A goes up and block B goes down. since blocks are tied together their tension and acceleration are same.
@@ -94,6 +101,9 @@ $$a= -1.34m/s^2$$
 
 Suppose the coefficient of kinetic friction between m_A and the plane in fig.is 
 $\mu_k = 0.20$ and that $m_A=m_B=m$.  As m_B moves down, determine the magnitude of the acceleration of $m_A$ and $m_B$ and given $ \theta =35^0 (a)$ What smallest value of $\mu_k$ will keep the system from accelerating? [ignore masses of the (frictionless) pulley and the cord.]
+
+![](https://lh3.googleusercontent.com/j0kEXYSTWqNZQMppDHjYKrRqOPgWd5s-5azZBBTMuDEw6AVh35Y46Rz1tdbFXHYF0kqBEHCLxLzPmVxxBZDwKahkG-MjqlINa0NV50ppgy9XShx6r-SCMAobDAicRg2RyGvUCw7r1UL0O1VDYcHFHQ)
+
 Both the blocks have the same mass and block B is going down, so acceleration is negative. Eventually, Block A moves up so acceleration is positive.(we are taking upward forces as positive and downward forces as negative.)
 $$\sum F_{yB} = F_T - F_g = -ma$$
 $$F_T=F_N - mg\cos\cos\theta = 0$$
