@@ -9,6 +9,8 @@ libraries:
     -mathjax
 draft: false
 ---
+## Newton's Second Law
+
 **Newton’s law of universal gravitation:** - Every particle in the universe attracts every other particle with a force that is proportional to their masses and inversely proportional to the square of the distance between them. This force acts along the line joining the two particles.
 $$ F_G = \frac{Gm_1m_2}{r^2} $$
 m₁ , m₂ = masses of the particles
@@ -48,3 +50,16 @@ Three identical very dense masses of 4700kg are placed on the x-axis. One mass i
 Here mass m₂ pulls mass m₁ towards the right and mass m₂ pulls mass m₃ towards the  left. Since all masses are the same.
 
 Thus, 
+$$ F_{Net} = F_1 - F_2$$
+$$ F_{Net} = Gmm[\frac{1}{(r_1)^2} - \frac{1}{(r_2)^2}]$$
+$$ F_{Net} = 6.67 \times 10^-11 \frac{Nm^2}{kg^2}$$
+$ F_{Net} = 1.1 \times 10^-3 N $ Towards the right.
+
+Now we will find the gravity near the earth’s surface.
+$$ F_G = \frac{Gm_1m_2}{(r)^2} $$
+In the above equation, m1 = mass of the earth
+m2 = mass of the object on the surface of the earth
+r = radius of the earth
+$$ F_G = \frac{Gm_Em_2}{(r_E)^2} $$
+
+$F_G$ = FDorce of gravity due to earth is the weight of the object mg.

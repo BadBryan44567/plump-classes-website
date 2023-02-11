@@ -10,7 +10,7 @@ libraries:
 draft: false
 ---
 
-## EQUILIBRIUM
+## Newton's Second Law and the Conditions of Equilibrium
 According to Newton's second law, acceleration is proportinal to force.Expressing mathematically, $F\propto a$ or $F=ma$ Where F is the force acting on the object, 'm' is the mass of the object and 'a' is the acceleration.
 
  In general, many forces act on an object at any instant of time. For example, if a book is lying on a table at rest, the forces acting on the book are gravity and normal force. since both the forces are balanced, the book is at rest. ie., the book is in static equilibrium. Here *the gravity and normal forces are not the action -reaction forces. They are two different forces acting on an object simultaneously.*

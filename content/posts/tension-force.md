@@ -9,7 +9,7 @@ libraries:
     -mathjax
 draft: false
 ---
-
+## The Atwood Machine
 The above system is called Atwood machine.
 To find the acceleration and tension in the cable, we have to write the force equations for the masses $ m_1$, $m_2$
 
@@ -62,7 +62,12 @@ To understand better, we will input some numerical values.
 
 $$m_1=7kg; m_2=3kg; \mu_k = 0.20;g=10m/s^2 $$
 $$a=\frac{(3-(0.20)7)\times10}{7+3} = 1.6m/s^2$$
-**avoid this mistake**: generally, students do the mistake by seeing the right-side forces (tension and weight) of the second mass balance each other, hence tension is equal to weight of the second mass. But that is not true. Here the block is going down with an acceleration.
+
+{{<boxmd>}}
+**Avoid THIS MISTAKE: generally, students do the mistake by seeing the right-side forces (tension and weight) of the second mass balance each other, hence tension is equal to weight of the second mass. But that is not true. Here the block is going down with an acceleration.**
+{{</boxmd>}}
+
+## Numericals
 
  Two masses m_A = 3.0 kg and m_B=7.0 kg are on inclines and are connected together by a ssstring as shown in fig. The coefficient of kinetic friction between each mass and its incline is $ \mu_k=0.30 $ If $ m_A $ moves up, and $ m_B $ moves down, determine their acceleration. [Ignore masses of the frictionless pulley and the cord.]
  Let us write the force equations for the blocks A and B.

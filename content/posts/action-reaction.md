@@ -100,12 +100,3 @@ $$a=2.7\frac{m}{s^2}$$
 $$F_{contact}-F_g=ma$$
 $$F_{contact}=(6.0 \times 9.8) + (6.0 \times 2.7)$$
 $$F_{contact} = 75.0N$$
-
-
-
-
-
-
-
-
-
