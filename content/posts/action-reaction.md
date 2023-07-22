@@ -9,7 +9,7 @@ libraries:
     - mathjax
 draft: false
 ---
-## Newton's 3rd law
+## Newton's 3rd laW
 Before studying the Newton's 3rd law, let us see whaaat are these action and reaction forces. We will analyse few situations to understand the action reaction forces.
 
 **Example1**:- A boy and girl standig on ice (ice offers zero friction) facting each other, holding their hands together and push each other. take the mass of the boy is greater than the mass of the girl. As they push each other, they move in opposite to each other. the question is how far they move from each other. Here they both exert equal amount of force on each other and as the mass of the boy is greaater, he moves less distance than the girl.
