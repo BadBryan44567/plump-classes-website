@@ -14,5 +14,5 @@ header:
     subtitleColor: # #123456, red
     subtitleCursive: false
     subtitleFontSize: 16
-    spaceBetweenTitleSubtitle: 15
+    spaceBetweenTitleSubtitle: 16
 ---
